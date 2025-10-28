@@ -1,7 +1,7 @@
 {
   "1_1_1": {
     "id": "1_1_1",
-    "name": "The Twilight Strand",
+    "name": "황혼의 해안",
     "map_name": null,
     "act": 1,
     "level": 1,
@@ -15,7 +15,7 @@
   },
   "1_Labyrinth_boss_3": {
     "id": "1_Labyrinth_boss_3",
-    "name": "Aspirant's Trial",
+    "name": "지망자의 시험",
     "map_name": null,
     "act": 3,
     "level": 33,
@@ -24,12 +24,12 @@
     "parent_town_area_id": "1_3_town",
     "connection_ids": [],
     "crafting_recipes": [
-      "All Resistances - Rank 1"
+      "모든 저항 - 1단계"
     ]
   },
   "2_Labyrinth_boss_3": {
     "id": "2_Labyrinth_boss_3",
-    "name": "Aspirant's Trial",
+    "name": "지망자의 시험",
     "map_name": null,
     "act": 3,
     "level": 55,
@@ -38,12 +38,12 @@
     "parent_town_area_id": "1_3_town",
     "connection_ids": [],
     "crafting_recipes": [
-      "Double Resistances - Rank 2"
+      "이중 저항 - 2단계"
     ]
   },
   "3_Labyrinth_boss_3": {
     "id": "3_Labyrinth_boss_3",
-    "name": "Aspirant's Trial",
+    "name": "지망자의 시험",
     "map_name": null,
     "act": 3,
     "level": 68,
@@ -52,13 +52,13 @@
     "parent_town_area_id": "1_3_town",
     "connection_ids": [],
     "crafting_recipes": [
-      "Double Resistances - Rank 3"
+      "이중 저항 - 3단계"
     ]
   },
   "1_1_town": {
     "id": "1_1_town",
-    "name": "Lioneye's Watch",
-    "map_name": "Lioneye's Watch",
+    "name": "라이온아이 초소",
+    "map_name": "라이온아이 초소",
     "act": 1,
     "level": 13,
     "has_waypoint": true,
@@ -72,8 +72,8 @@
   },
   "1_1_2": {
     "id": "1_1_2",
-    "name": "The Coast",
-    "map_name": "The Coast",
+    "name": "해안 지대",
+    "map_name": "해안 지대",
     "act": 1,
     "level": 2,
     "has_waypoint": true,
@@ -88,7 +88,7 @@
   },
   "1_1_3": {
     "id": "1_1_3",
-    "name": "The Mud Flats",
+    "name": "갯벌",
     "map_name": null,
     "act": 1,
     "level": 4,
@@ -104,7 +104,7 @@
   },
   "1_1_2a": {
     "id": "1_1_2a",
-    "name": "The Tidal Island",
+    "name": "물결 섬",
     "map_name": null,
     "act": 1,
     "level": 3,
@@ -118,8 +118,8 @@
   },
   "1_1_4_1": {
     "id": "1_1_4_1",
-    "name": "The Submerged Passage",
-    "map_name": "The Submerged Passage",
+    "name": "물에 잠긴 길",
+    "map_name": "물에 잠긴 길",
     "act": 1,
     "level": 5,
     "has_waypoint": true,
@@ -134,7 +134,7 @@
   },
   "1_1_3a": {
     "id": "1_1_3a",
-    "name": "The Fetid Pool",
+    "name": "악취 나는 웅덩이",
     "map_name": null,
     "act": 1,
     "level": 5,
@@ -148,8 +148,8 @@
   },
   "1_1_5": {
     "id": "1_1_5",
-    "name": "The Ledge",
-    "map_name": "The Ledge",
+    "name": "바위 턱",
+    "map_name": "바위 턱",
     "act": 1,
     "level": 6,
     "has_waypoint": true,
@@ -163,7 +163,7 @@
   },
   "1_1_4_0": {
     "id": "1_1_4_0",
-    "name": "The Flooded Depths",
+    "name": "물에 잠긴 심연",
     "map_name": null,
     "act": 1,
     "level": 6,
@@ -177,8 +177,8 @@
   },
   "1_1_6": {
     "id": "1_1_6",
-    "name": "The Climb",
-    "map_name": "The Climb",
+    "name": "고개",
+    "map_name": "고개",
     "act": 1,
     "level": 7,
     "has_waypoint": true,
@@ -192,8 +192,8 @@
   },
   "1_1_7_1": {
     "id": "1_1_7_1",
-    "name": "The Lower Prison",
-    "map_name": "The Prison",
+    "name": "수용소 하층",
+    "map_name": "수용소",
     "act": 1,
     "level": 8,
     "has_waypoint": true,
@@ -207,7 +207,7 @@
   },
   "1_1_7_2": {
     "id": "1_1_7_2",
-    "name": "The Upper Prison",
+    "name": "수용소 상층",
     "map_name": null,
     "act": 1,
     "level": 9,
@@ -222,8 +222,8 @@
   },
   "1_1_8": {
     "id": "1_1_8",
-    "name": "Prisoner's Gate",
-    "map_name": "Prisoner's Gate",
+    "name": "죄수의 문",
+    "map_name": "죄수의 문",
     "act": 1,
     "level": 10,
     "has_waypoint": true,
@@ -238,8 +238,8 @@
   },
   "1_1_9": {
     "id": "1_1_9",
-    "name": "The Ship Graveyard",
-    "map_name": "The Ship Graveyard",
+    "name": "배들의 묘지",
+    "map_name": "배들의 묘지",
     "act": 1,
     "level": 11,
     "has_waypoint": true,
@@ -255,8 +255,8 @@
   },
   "1_2_9": {
     "id": "1_2_9",
-    "name": "The Western Forest",
-    "map_name": "The Western Forest",
+    "name": "서쪽 숲",
+    "map_name": "서쪽 숲",
     "act": 2,
     "level": 17,
     "has_waypoint": true,
@@ -271,7 +271,7 @@
   },
   "1_1_9a": {
     "id": "1_1_9a",
-    "name": "The Ship Graveyard Cave",
+    "name": "배들의 묘지 동굴",
     "map_name": null,
     "act": 1,
     "level": 12,
@@ -286,8 +286,8 @@
   },
   "1_1_11_1": {
     "id": "1_1_11_1",
-    "name": "The Cavern of Wrath",
-    "map_name": "Merveil's Caverns",
+    "name": "진노의 암굴",
+    "map_name": "머베일의 암굴",
     "act": 1,
     "level": 12,
     "has_waypoint": true,
@@ -301,8 +301,8 @@
   },
   "1_2_7": {
     "id": "1_2_7",
-    "name": "The Riverways",
-    "map_name": "The Riverways",
+    "name": "강변길",
+    "map_name": "강변길",
     "act": 2,
     "level": 15,
     "has_waypoint": true,
@@ -317,7 +317,7 @@
   },
   "1_2_10": {
     "id": "1_2_10",
-    "name": "The Weaver's Chambers",
+    "name": "거미의 방",
     "map_name": null,
     "act": 2,
     "level": 18,
@@ -331,7 +331,7 @@
   },
   "1_1_11_2": {
     "id": "1_1_11_2",
-    "name": "The Cavern of Anger",
+    "name": "분노의 암굴",
     "map_name": null,
     "act": 1,
     "level": 13,
@@ -346,8 +346,8 @@
   },
   "1_2_town": {
     "id": "1_2_town",
-    "name": "The Forest Encampment",
-    "map_name": "The Forest Encampment",
+    "name": "숲 야영지",
+    "map_name": "숲 야영지",
     "act": 2,
     "level": 23,
     "has_waypoint": true,
@@ -362,8 +362,8 @@
   },
   "1_2_12": {
     "id": "1_2_12",
-    "name": "The Wetlands",
-    "map_name": "The Wetlands",
+    "name": "습지대",
+    "map_name": "습지대",
     "act": 2,
     "level": 19,
     "has_waypoint": true,
@@ -377,8 +377,8 @@
   },
   "1_2_1": {
     "id": "1_2_1",
-    "name": "The Southern Forest",
-    "map_name": "The Southern Forest",
+    "name": "남쪽 숲",
+    "map_name": "남쪽 숲",
     "act": 2,
     "level": 13,
     "has_waypoint": true,
@@ -392,7 +392,7 @@
   },
   "1_2_2": {
     "id": "1_2_2",
-    "name": "The Old Fields",
+    "name": "버려진 경작지",
     "map_name": null,
     "act": 2,
     "level": 14,
@@ -409,7 +409,7 @@
   },
   "1_2_11": {
     "id": "1_2_11",
-    "name": "The Vaal Ruins",
+    "name": "바알 유적",
     "map_name": null,
     "act": 2,
     "level": 20,
@@ -424,7 +424,7 @@
   },
   "1_2_2a": {
     "id": "1_2_2a",
-    "name": "The Den",
+    "name": "굴",
     "map_name": null,
     "act": 2,
     "level": 15,
@@ -439,8 +439,8 @@
   },
   "1_2_3": {
     "id": "1_2_3",
-    "name": "The Crossroads",
-    "map_name": "The Crossroads",
+    "name": "갈림길",
+    "map_name": "갈림길",
     "act": 2,
     "level": 15,
     "has_waypoint": true,
@@ -456,8 +456,8 @@
   },
   "1_2_8": {
     "id": "1_2_8",
-    "name": "The Northern Forest",
-    "map_name": "The Northern Forest",
+    "name": "북쪽 숲",
+    "map_name": "북쪽 숲",
     "act": 2,
     "level": 21,
     "has_waypoint": true,
@@ -472,8 +472,8 @@
   },
   "1_2_4": {
     "id": "1_2_4",
-    "name": "The Broken Bridge",
-    "map_name": "The Broken Bridge",
+    "name": "부서진 다리",
+    "map_name": "부서진 다리",
     "act": 2,
     "level": 16,
     "has_waypoint": true,
@@ -486,7 +486,7 @@
   },
   "1_2_15": {
     "id": "1_2_15",
-    "name": "The Fellshrine Ruins",
+    "name": "몰락한 성소 유적",
     "map_name": null,
     "act": 2,
     "level": 16,
@@ -501,8 +501,8 @@
   },
   "1_2_6_1": {
     "id": "1_2_6_1",
-    "name": "The Chamber of Sins Level 1",
-    "map_name": "The Chamber of Sins",
+    "name": "죄악의 방 1층",
+    "map_name": "죄악의 방",
     "act": 2,
     "level": 15,
     "has_waypoint": true,
@@ -516,7 +516,7 @@
   },
   "1_2_13": {
     "id": "1_2_13",
-    "name": "The Dread Thicket",
+    "name": "공포의 잡목림",
     "map_name": null,
     "act": 2,
     "level": 21,
@@ -530,8 +530,8 @@
   },
   "1_2_14_2": {
     "id": "1_2_14_2",
-    "name": "The Caverns",
-    "map_name": "The Caverns",
+    "name": "암굴",
+    "map_name": "암굴",
     "act": 2,
     "level": 22,
     "has_waypoint": true,
@@ -542,13 +542,13 @@
       "1_2_14_3"
     ],
     "crafting_recipes": [
-      "Vaal Skill Damage - Rank 1"
+      "바알 스킬 피해 - 1단계"
     ]
   },
   "1_2_5_1": {
     "id": "1_2_5_1",
-    "name": "The Crypt Level 1",
-    "map_name": "The Crypt",
+    "name": "지하실 1층",
+    "map_name": "지하실",
     "act": 2,
     "level": 17,
     "has_waypoint": true,
@@ -562,7 +562,7 @@
   },
   "1_2_6_2": {
     "id": "1_2_6_2",
-    "name": "The Chamber of Sins Level 2",
+    "name": "죄악의 방 2층",
     "map_name": null,
     "act": 2,
     "level": 16,
@@ -576,7 +576,7 @@
   },
   "1_2_14_3": {
     "id": "1_2_14_3",
-    "name": "The Ancient Pyramid",
+    "name": "고대 피라미드",
     "map_name": null,
     "act": 2,
     "level": 23,
@@ -588,12 +588,12 @@
       "1_3_1"
     ],
     "crafting_recipes": [
-      "Spell Damage - Rank 1"
+      "주문 피해 - 1단계"
     ]
   },
   "1_2_5_2": {
     "id": "1_2_5_2",
-    "name": "The Crypt Level 2",
+    "name": "지하실 2층",
     "map_name": null,
     "act": 2,
     "level": 18,
@@ -607,8 +607,8 @@
   },
   "1_3_1": {
     "id": "1_3_1",
-    "name": "The City of Sarn",
-    "map_name": "The City of Sarn",
+    "name": "사안 시내",
+    "map_name": "사안 시내",
     "act": 3,
     "level": 23,
     "has_waypoint": true,
@@ -619,13 +619,13 @@
       "1_3_town"
     ],
     "crafting_recipes": [
-      "Movement Speed - Rank 1"
+      "이동 속도 - 1단계"
     ]
   },
   "1_3_town": {
     "id": "1_3_town",
-    "name": "The Sarn Encampment",
-    "map_name": "The Sarn Encampment",
+    "name": "사안 야영지",
+    "map_name": "사안 야영지",
     "act": 3,
     "level": 33,
     "has_waypoint": true,
@@ -641,7 +641,7 @@
   },
   "1_3_2": {
     "id": "1_3_2",
-    "name": "The Slums",
+    "name": "빈민가",
     "map_name": null,
     "act": 3,
     "level": 24,
@@ -657,7 +657,7 @@
   },
   "ffa1_1": {
     "id": "ffa1_1",
-    "name": "Sarn Arena",
+    "name": "사안 투기장",
     "map_name": null,
     "act": 3,
     "level": 36,
@@ -669,7 +669,7 @@
   },
   "Labyrinth_Airlock": {
     "id": "Labyrinth_Airlock",
-    "name": "Aspirants' Plaza",
+    "name": "지망자의 광장",
     "map_name": null,
     "act": 3,
     "level": 33,
@@ -684,8 +684,8 @@
   },
   "1_3_3_1": {
     "id": "1_3_3_1",
-    "name": "The Crematorium",
-    "map_name": "The Crematorium",
+    "name": "화장터",
+    "map_name": "화장터",
     "act": 3,
     "level": 25,
     "has_waypoint": true,
@@ -695,13 +695,13 @@
       "1_3_2"
     ],
     "crafting_recipes": [
-      "Defences - Rank 1"
+      "방어력 - 1단계"
     ]
   },
   "1_3_10_1": {
     "id": "1_3_10_1",
-    "name": "The Sewers",
-    "map_name": "The Sewers",
+    "name": "하수도",
+    "map_name": "하수도",
     "act": 3,
     "level": 26,
     "has_waypoint": true,
@@ -713,13 +713,13 @@
       "1_3_13"
     ],
     "crafting_recipes": [
-      "Physical Damage - Rank 1"
+      "물리 피해 - 1단계"
     ]
   },
   "2_8_town": {
     "id": "2_8_town",
-    "name": "The Sarn Encampment",
-    "map_name": "The Sarn Encampment",
+    "name": "사안 야영지",
+    "map_name": "사안 야영지",
     "act": 8,
     "level": 60,
     "has_waypoint": true,
@@ -735,8 +735,8 @@
   },
   "1_3_5": {
     "id": "1_3_5",
-    "name": "The Marketplace",
-    "map_name": "The Marketplace",
+    "name": "장터",
+    "map_name": "장터",
     "act": 3,
     "level": 26,
     "has_waypoint": true,
@@ -751,8 +751,8 @@
   },
   "1_3_13": {
     "id": "1_3_13",
-    "name": "The Ebony Barracks",
-    "map_name": "The Ebony Barracks",
+    "name": "칠흑의 군단 주둔지",
+    "map_name": "칠흑의 군단 주둔지",
     "act": 3,
     "level": 29,
     "has_waypoint": true,
@@ -767,8 +767,8 @@
   },
   "2_8_1": {
     "id": "2_8_1",
-    "name": "The Sarn Ramparts",
-    "map_name": "The Sarn Ramparts",
+    "name": "사안 성벽",
+    "map_name": "사안 성벽",
     "act": 8,
     "level": 55,
     "has_waypoint": true,
@@ -782,7 +782,7 @@
   },
   "2_8_2_1": {
     "id": "2_8_2_1",
-    "name": "The Toxic Conduits",
+    "name": "독성 도관",
     "map_name": null,
     "act": 8,
     "level": 56,
@@ -797,7 +797,7 @@
   },
   "ffa3_1": {
     "id": "ffa3_1",
-    "name": "Sarn Arena",
+    "name": "사안 투기장",
     "map_name": null,
     "act": 3,
     "level": 68,
@@ -809,7 +809,7 @@
   },
   "1_3_6": {
     "id": "1_3_6",
-    "name": "The Catacombs",
+    "name": "지하 묘지",
     "map_name": null,
     "act": 3,
     "level": 27,
@@ -820,13 +820,13 @@
       "1_3_5"
     ],
     "crafting_recipes": [
-      "Elemental Damage with Attacks - Rank 1"
+      "공격시 원소 피해 - 1단계"
     ]
   },
   "1_3_7": {
     "id": "1_3_7",
-    "name": "The Battlefront",
-    "map_name": "The Battlefront",
+    "name": "전쟁터",
+    "map_name": "전쟁터",
     "act": 3,
     "level": 27,
     "has_waypoint": true,
@@ -841,8 +841,8 @@
   },
   "1_3_14_1": {
     "id": "1_3_14_1",
-    "name": "The Lunaris Temple Level 1",
-    "map_name": "The Lunaris Temple",
+    "name": "루나리스 사원 1층",
+    "map_name": "루나리스 사원",
     "act": 3,
     "level": 29,
     "has_waypoint": true,
@@ -856,8 +856,8 @@
   },
   "1_3_15": {
     "id": "1_3_15",
-    "name": "The Imperial Gardens",
-    "map_name": "The Imperial Gardens",
+    "name": "황실 정원",
+    "map_name": "황실 정원",
     "act": 3,
     "level": 30,
     "has_waypoint": true,
@@ -869,12 +869,12 @@
       "1_3_18_1"
     ],
     "crafting_recipes": [
-      "All Attributes - Rank 1"
+      "전체 능력치 - 1단계"
     ]
   },
   "2_7_12_2": {
     "id": "2_7_12_2",
-    "name": "The Temple of Decay Level 2",
+    "name": "부패의 사원 2층",
     "map_name": null,
     "act": 7,
     "level": 55,
@@ -886,13 +886,13 @@
       "2_8_1"
     ],
     "crafting_recipes": [
-      "Chaos Damage - Rank 1"
+      "카오스 피해 - 1단계"
     ]
   },
   "2_8_2_2": {
     "id": "2_8_2_2",
-    "name": "Doedre's Cesspool",
-    "map_name": "The Toxic Conduits",
+    "name": "도이드리의 정화조",
+    "map_name": "독성 도관",
     "act": 8,
     "level": 56,
     "has_waypoint": true,
@@ -904,13 +904,13 @@
       "2_8_8"
     ],
     "crafting_recipes": [
-      "Elemental Resistances - Rank 3"
+      "원소 저항 - 3단계"
     ]
   },
   "1_3_8_1": {
     "id": "1_3_8_1",
-    "name": "The Solaris Temple Level 1",
-    "map_name": "The Solaris Temple Level 1",
+    "name": "솔라리스 사원 1층",
+    "map_name": "솔라리스 사원 1층",
     "act": 3,
     "level": 27,
     "has_waypoint": true,
@@ -924,8 +924,8 @@
   },
   "1_3_9": {
     "id": "1_3_9",
-    "name": "The Docks",
-    "map_name": "The Docks",
+    "name": "항구",
+    "map_name": "항구",
     "act": 3,
     "level": 29,
     "has_waypoint": true,
@@ -938,7 +938,7 @@
   },
   "1_3_14_2": {
     "id": "1_3_14_2",
-    "name": "The Lunaris Temple Level 2",
+    "name": "루나리스 사원 2층",
     "map_name": null,
     "act": 3,
     "level": 30,
@@ -949,13 +949,13 @@
       "1_3_14_1"
     ],
     "crafting_recipes": [
-      "Lightning Damage - Rank 1"
+      "번개 피해 - 1단계"
     ]
   },
   "1_3_17_1": {
     "id": "1_3_17_1",
-    "name": "The Library",
-    "map_name": "The Library",
+    "name": "도서관",
+    "map_name": "도서관",
     "act": 3,
     "level": 30,
     "has_waypoint": true,
@@ -969,8 +969,8 @@
   },
   "1_3_18_1": {
     "id": "1_3_18_1",
-    "name": "The Sceptre of God",
-    "map_name": "The Sceptre of God",
+    "name": "신의 셉터",
+    "map_name": "신의 셉터",
     "act": 3,
     "level": 32,
     "has_waypoint": true,
@@ -984,7 +984,7 @@
   },
   "2_7_12_1": {
     "id": "2_7_12_1",
-    "name": "The Temple of Decay Level 1",
+    "name": "부패의 사원 1층",
     "map_name": null,
     "act": 7,
     "level": 54,
@@ -999,7 +999,7 @@
   },
   "2_8_3": {
     "id": "2_8_3",
-    "name": "The Grand Promenade",
+    "name": "대 산책로",
     "map_name": null,
     "act": 8,
     "level": 56,
@@ -1014,7 +1014,7 @@
   },
   "2_8_8": {
     "id": "2_8_8",
-    "name": "The Quay",
+    "name": "부두",
     "map_name": null,
     "act": 8,
     "level": 57,
@@ -1029,8 +1029,8 @@
   },
   "1_3_8_2": {
     "id": "1_3_8_2",
-    "name": "The Solaris Temple Level 2",
-    "map_name": "The Solaris Temple Level 2",
+    "name": "솔라리스 사원 2층",
+    "map_name": "솔라리스 사원 2층",
     "act": 3,
     "level": 28,
     "has_waypoint": true,
@@ -1040,12 +1040,12 @@
       "1_3_8_1"
     ],
     "crafting_recipes": [
-      "Fire Damage - Rank 1"
+      "화염 피해 - 1단계"
     ]
   },
   "1_3_17_2": {
     "id": "1_3_17_2",
-    "name": "The Archives",
+    "name": "문서 보관소",
     "map_name": null,
     "act": 3,
     "level": 31,
@@ -1056,12 +1056,12 @@
       "1_3_17_1"
     ],
     "crafting_recipes": [
-      "Life and Mana Regeneration - Rank 1"
+      "생명력 및 마나 재생 - 1단계"
     ]
   },
   "1_3_18_2": {
     "id": "1_3_18_2",
-    "name": "The Upper Sceptre of God",
+    "name": "신의 셉터 상층",
     "map_name": null,
     "act": 3,
     "level": 33,
@@ -1076,8 +1076,8 @@
   },
   "2_7_11": {
     "id": "2_7_11",
-    "name": "The Vaal City",
-    "map_name": "The Vaal City",
+    "name": "바알 도시",
+    "map_name": "바알 도시",
     "act": 7,
     "level": 54,
     "has_waypoint": true,
@@ -1091,8 +1091,8 @@
   },
   "2_8_5": {
     "id": "2_8_5",
-    "name": "The Bath House",
-    "map_name": "The Bath House",
+    "name": "목욕탕",
+    "map_name": "목욕탕",
     "act": 8,
     "level": 57,
     "has_waypoint": true,
@@ -1105,13 +1105,13 @@
       "2_8_14"
     ],
     "crafting_recipes": [
-      "Flask Duration - Rank 1"
+      "플라스크 지속시간 - 1단계"
     ]
   },
   "2_8_9": {
     "id": "2_8_9",
-    "name": "The Grain Gate",
-    "map_name": "The Grain Gate",
+    "name": "곡물의 문",
+    "map_name": "곡물의 문",
     "act": 8,
     "level": 57,
     "has_waypoint": true,
@@ -1126,8 +1126,8 @@
   },
   "1_4_1": {
     "id": "1_4_1",
-    "name": "The Aqueduct",
-    "map_name": "The Aqueduct",
+    "name": "수로",
+    "map_name": "수로",
     "act": 4,
     "level": 33,
     "has_waypoint": true,
@@ -1141,8 +1141,8 @@
   },
   "2_7_10": {
     "id": "2_7_10",
-    "name": "The Causeway",
-    "map_name": "The Causeway",
+    "name": "둑길",
+    "map_name": "둑길",
     "act": 7,
     "level": 54,
     "has_waypoint": true,
@@ -1153,13 +1153,13 @@
       "2_7_11"
     ],
     "crafting_recipes": [
-      "Cold Damage - Rank 2"
+      "냉기 피해 - 2단계"
     ]
   },
   "2_8_6": {
     "id": "2_8_6",
-    "name": "The Lunaris Concourse",
-    "map_name": "The Lunaris Concourse",
+    "name": "루나리스 중앙 광장",
+    "map_name": "루나리스 중앙 광장",
     "act": 8,
     "level": 58,
     "has_waypoint": true,
@@ -1174,7 +1174,7 @@
   },
   "2_8_4": {
     "id": "2_8_4",
-    "name": "The High Gardens",
+    "name": "고층 정원",
     "map_name": null,
     "act": 8,
     "level": 58,
@@ -1188,7 +1188,7 @@
   },
   "2_8_14": {
     "id": "2_8_14",
-    "name": "The Hidden Underbelly",
+    "name": "숨겨진 취약 지점",
     "map_name": null,
     "act": 8,
     "level": 58,
@@ -1204,8 +1204,8 @@
   },
   "2_8_10": {
     "id": "2_8_10",
-    "name": "The Imperial Fields",
-    "map_name": "The Imperial Fields",
+    "name": "황실 정원",
+    "map_name": "황실 정원",
     "act": 8,
     "level": 58,
     "has_waypoint": true,
@@ -1219,8 +1219,8 @@
   },
   "1_4_town": {
     "id": "1_4_town",
-    "name": "Highgate",
-    "map_name": "Highgate",
+    "name": "하이게이트",
+    "map_name": "하이게이트",
     "act": 4,
     "level": 40,
     "has_waypoint": true,
@@ -1236,8 +1236,8 @@
   },
   "2_7_8": {
     "id": "2_7_8",
-    "name": "The Northern Forest",
-    "map_name": "The Northern Forest",
+    "name": "북쪽 숲",
+    "map_name": "북쪽 숲",
     "act": 7,
     "level": 53,
     "has_waypoint": true,
@@ -1252,8 +1252,8 @@
   },
   "2_8_7_1_": {
     "id": "2_8_7_1_",
-    "name": "The Lunaris Temple Level 1",
-    "map_name": "The Lunaris Temple",
+    "name": "루나리스 사원 1층",
+    "map_name": "루나리스 사원",
     "act": 8,
     "level": 59,
     "has_waypoint": true,
@@ -1267,7 +1267,7 @@
   },
   "2_8_13": {
     "id": "2_8_13",
-    "name": "The Harbour Bridge",
+    "name": "항구 다리",
     "map_name": null,
     "act": 8,
     "level": 60,
@@ -1284,8 +1284,8 @@
   },
   "2_8_11": {
     "id": "2_8_11",
-    "name": "The Solaris Concourse",
-    "map_name": "The Solaris Concourse",
+    "name": "솔라리스 중앙 광장",
+    "map_name": "솔라리스 중앙 광장",
     "act": 8,
     "level": 58,
     "has_waypoint": true,
@@ -1301,8 +1301,8 @@
   },
   "2_8_12_1": {
     "id": "2_8_12_1",
-    "name": "The Solaris Temple Level 1",
-    "map_name": "The Solaris Temple",
+    "name": "솔라리스 사원 1층",
+    "map_name": "솔라리스 사원",
     "act": 8,
     "level": 59,
     "has_waypoint": true,
@@ -1317,7 +1317,7 @@
   },
   "1_4_2": {
     "id": "1_4_2",
-    "name": "The Dried Lake",
+    "name": "말라붙은 호수",
     "map_name": null,
     "act": 4,
     "level": 34,
@@ -1328,12 +1328,12 @@
       "1_4_town"
     ],
     "crafting_recipes": [
-      "Attack, Cast and Warcry Speed - Rank 1"
+      "공격, 시전 및 함성 속도 - 1단계"
     ]
   },
   "1_4_3_1": {
     "id": "1_4_3_1",
-    "name": "The Mines Level 1",
+    "name": "광산 1층",
     "map_name": null,
     "act": 4,
     "level": 34,
@@ -1345,12 +1345,12 @@
       "1_4_3_2"
     ],
     "crafting_recipes": [
-      "Socket Colours"
+      "홈 색상"
     ]
   },
   "1_4_7": {
     "id": "1_4_7",
-    "name": "The Ascent",
+    "name": "오르막길",
     "map_name": null,
     "act": 4,
     "level": 40,
@@ -1362,13 +1362,13 @@
       "1_5_1"
     ],
     "crafting_recipes": [
-      "Ailment, Stun and Curse Mitigation - Rank 1"
+      "상태 이상, 기절 및 저주 완화 - 1단계"
     ]
   },
   "2_7_7": {
     "id": "2_7_7",
-    "name": "The Ashen Fields",
-    "map_name": "The Ashen Fields",
+    "name": "잿빛 들판",
+    "map_name": "잿빛 들판",
     "act": 7,
     "level": 53,
     "has_waypoint": true,
@@ -1382,7 +1382,7 @@
   },
   "2_7_9": {
     "id": "2_7_9",
-    "name": "The Dread Thicket",
+    "name": "공포의 잡목림",
     "map_name": null,
     "act": 7,
     "level": 53,
@@ -1393,12 +1393,12 @@
       "2_7_8"
     ],
     "crafting_recipes": [
-      "Fire Damage - Rank 2"
+      "화염 피해 - 2단계"
     ]
   },
   "2_8_7_2": {
     "id": "2_8_7_2",
-    "name": "The Lunaris Temple Level 2",
+    "name": "루나리스 사원 2층",
     "map_name": null,
     "act": 8,
     "level": 59,
@@ -1409,13 +1409,13 @@
       "2_8_7_1_"
     ],
     "crafting_recipes": [
-      "Minions - Rank 1"
+      "수환수 - 1단계"
     ]
   },
   "2_9_1": {
     "id": "2_9_1",
-    "name": "The Blood Aqueduct",
-    "map_name": "The Blood Aqueduct",
+    "name": "피의 수로",
+    "map_name": "피의 수로",
     "act": 9,
     "level": 61,
     "has_waypoint": true,
@@ -1429,7 +1429,7 @@
   },
   "2_8_12_2": {
     "id": "2_8_12_2",
-    "name": "The Solaris Temple Level 2",
+    "name": "솔라리스 사원 2층",
     "map_name": null,
     "act": 8,
     "level": 59,
@@ -1440,12 +1440,12 @@
       "2_8_12_1"
     ],
     "crafting_recipes": [
-      "Traps and Mines - Rank 1"
+      "덫 및 지뢰 - 1단계"
     ]
   },
   "1_4_3_2": {
     "id": "1_4_3_2",
-    "name": "The Mines Level 2",
+    "name": "광산 2층",
     "map_name": null,
     "act": 4,
     "level": 35,
@@ -1460,8 +1460,8 @@
   },
   "1_5_1": {
     "id": "1_5_1",
-    "name": "The Slave Pens",
-    "map_name": "The Slave Pens",
+    "name": "노예 감호소",
+    "map_name": "노예 감호소",
     "act": 5,
     "level": 41,
     "has_waypoint": true,
@@ -1475,8 +1475,8 @@
   },
   "2_7_6": {
     "id": "2_7_6",
-    "name": "The Den",
-    "map_name": "The Den",
+    "name": "굴",
+    "map_name": "굴",
     "act": 7,
     "level": 53,
     "has_waypoint": true,
@@ -1490,8 +1490,8 @@
   },
   "2_9_town": {
     "id": "2_9_town",
-    "name": "Highgate",
-    "map_name": "Highgate",
+    "name": "하이게이트",
+    "map_name": "하이게이트",
     "act": 9,
     "level": 67,
     "has_waypoint": true,
@@ -1505,8 +1505,8 @@
   },
   "1_4_3_3": {
     "id": "1_4_3_3",
-    "name": "The Crystal Veins",
-    "map_name": "The Crystal Veins",
+    "name": "수정 광맥",
+    "map_name": "수정 광맥",
     "act": 4,
     "level": 36,
     "has_waypoint": true,
@@ -1519,13 +1519,13 @@
       "1_4_6_1"
     ],
     "crafting_recipes": [
-      "Cold Damage - Rank 1"
+      "냉기 피해 - 1단계"
     ]
   },
   "1_5_town": {
     "id": "1_5_town",
-    "name": "Overseer's Tower",
-    "map_name": "Overseer's Tower",
+    "name": "감시탑",
+    "map_name": "감시탑",
     "act": 5,
     "level": 45,
     "has_waypoint": true,
@@ -1539,7 +1539,7 @@
   },
   "2_7_5_2": {
     "id": "2_7_5_2",
-    "name": "The Chamber of Sins Level 2",
+    "name": "죄악의 방 2층",
     "map_name": null,
     "act": 7,
     "level": 52,
@@ -1551,12 +1551,12 @@
       "2_7_6"
     ],
     "crafting_recipes": [
-      "Mana Regen - Rank 1"
+      "마나 재생 - 1단계"
     ]
   },
   "2_9_2": {
     "id": "2_9_2",
-    "name": "The Descent",
+    "name": "비탈",
     "map_name": null,
     "act": 9,
     "level": 61,
@@ -1571,7 +1571,7 @@
   },
   "1_4_4_1": {
     "id": "1_4_4_1",
-    "name": "Kaom's Dream",
+    "name": "카옴의 꿈",
     "map_name": null,
     "act": 4,
     "level": 37,
@@ -1586,7 +1586,7 @@
   },
   "1_4_5_1": {
     "id": "1_4_5_1",
-    "name": "Daresso's Dream",
+    "name": "다레소의 꿈",
     "map_name": null,
     "act": 4,
     "level": 37,
@@ -1601,7 +1601,7 @@
   },
   "1_4_6_1": {
     "id": "1_4_6_1",
-    "name": "The Belly of the Beast Level 1",
+    "name": "짐승의 소굴 1층",
     "map_name": null,
     "act": 4,
     "level": 38,
@@ -1616,7 +1616,7 @@
   },
   "1_5_2": {
     "id": "1_5_2",
-    "name": "The Control Blocks",
+    "name": "관리 구역",
     "map_name": null,
     "act": 5,
     "level": 41,
@@ -1632,8 +1632,8 @@
   },
   "2_7_5_1": {
     "id": "2_7_5_1",
-    "name": "The Chamber of Sins Level 1",
-    "map_name": "The Chamber of Sins",
+    "name": "죄악의 방 1층",
+    "map_name": "죄악의 방",
     "act": 7,
     "level": 52,
     "has_waypoint": true,
@@ -1645,13 +1645,13 @@
       "2_7_5_map"
     ],
     "crafting_recipes": [
-      "Lightning Damage - Rank 2"
+      "번개 피해 - 2단계"
     ]
   },
   "2_9_3": {
     "id": "2_9_3",
-    "name": "The Vastiri Desert",
-    "map_name": "The Vastiri Desert",
+    "name": "바스티리 사막",
+    "map_name": "바스티리 사막",
     "act": 9,
     "level": 61,
     "has_waypoint": true,
@@ -1663,13 +1663,13 @@
       "2_9_5"
     ],
     "crafting_recipes": [
-      "Attack and Cast Speed - Rank 2"
+      "공격 및 시전 속도 - 2단계"
     ]
   },
   "1_4_4_3": {
     "id": "1_4_4_3",
-    "name": "Kaom's Stronghold",
-    "map_name": "Kaom's Stronghold",
+    "name": "카옴의 요새",
+    "map_name": "카옴의 요새",
     "act": 4,
     "level": 38,
     "has_waypoint": true,
@@ -1679,13 +1679,13 @@
       "1_4_4_1"
     ],
     "crafting_recipes": [
-      "Socket Links - 2 to 4 Linked Sockets"
+      "홈 연결부 - 연결된 홈 2~4개"
     ]
   },
   "1_4_5_2": {
     "id": "1_4_5_2",
-    "name": "The Grand Arena",
-    "map_name": "The Grand Arena",
+    "name": "대 투기장",
+    "map_name": "대 투기장",
     "act": 4,
     "level": 38,
     "has_waypoint": true,
@@ -1695,12 +1695,12 @@
       "1_4_5_1"
     ],
     "crafting_recipes": [
-      "Socket Numbers - 2 to 4 Sockets"
+      "홈 개수 - 홈 2~4개"
     ]
   },
   "1_4_6_2": {
     "id": "1_4_6_2",
-    "name": "The Belly of the Beast Level 2",
+    "name": "짐승의 소굴 2층",
     "map_name": null,
     "act": 4,
     "level": 39,
@@ -1712,13 +1712,13 @@
       "1_4_6_3"
     ],
     "crafting_recipes": [
-      "Elemental Resistances - Rank 2"
+      "원소 저항 - 2단계"
     ]
   },
   "1_5_3": {
     "id": "1_5_3",
-    "name": "Oriath Square",
-    "map_name": "Oriath Square",
+    "name": "오리아스 광장",
+    "map_name": "오리아스 광장",
     "act": 5,
     "level": 42,
     "has_waypoint": true,
@@ -1732,8 +1732,8 @@
   },
   "2_7_2": {
     "id": "2_7_2",
-    "name": "The Crossroads",
-    "map_name": "The Crossroads",
+    "name": "갈림길",
+    "map_name": "갈림길",
     "act": 7,
     "level": 51,
     "has_waypoint": true,
@@ -1748,7 +1748,7 @@
   },
   "2_7_5_map": {
     "id": "2_7_5_map",
-    "name": "Maligaro's Sanctum",
+    "name": "말라가로의 지성소",
     "map_name": null,
     "act": 7,
     "level": 52,
@@ -1762,7 +1762,7 @@
   },
   "2_9_4": {
     "id": "2_9_4",
-    "name": "The Oasis",
+    "name": "오아시스",
     "map_name": null,
     "act": 9,
     "level": 61,
@@ -1776,8 +1776,8 @@
   },
   "2_9_5": {
     "id": "2_9_5",
-    "name": "The Foothills",
-    "map_name": "The Foothills",
+    "name": "구릉",
+    "map_name": "구릉",
     "act": 9,
     "level": 62,
     "has_waypoint": true,
@@ -1792,8 +1792,8 @@
   },
   "1_4_6_3": {
     "id": "1_4_6_3",
-    "name": "The Harvest",
-    "map_name": "The Harvest",
+    "name": "수확소",
+    "map_name": "수확소",
     "act": 4,
     "level": 40,
     "has_waypoint": true,
@@ -1807,8 +1807,8 @@
   },
   "1_5_4": {
     "id": "1_5_4",
-    "name": "The Templar Courts",
-    "map_name": "The Templar Courts",
+    "name": "템플러의 법정",
+    "map_name": "템플러의 법정",
     "act": 5,
     "level": 42,
     "has_waypoint": true,
@@ -1822,7 +1822,7 @@
   },
   "2_7_1": {
     "id": "2_7_1",
-    "name": "The Broken Bridge",
+    "name": "부서진 다리",
     "map_name": null,
     "act": 7,
     "level": 50,
@@ -1837,7 +1837,7 @@
   },
   "2_7_3": {
     "id": "2_7_3",
-    "name": "The Fellshrine Ruins",
+    "name": "몰락한 성소 유적",
     "map_name": null,
     "act": 7,
     "level": 51,
@@ -1853,7 +1853,7 @@
   },
   "2_9_6": {
     "id": "2_9_6",
-    "name": "The Boiling Lake",
+    "name": "끓어오르는 호수",
     "map_name": null,
     "act": 9,
     "level": 62,
@@ -1864,13 +1864,13 @@
       "2_9_5"
     ],
     "crafting_recipes": [
-      "Spell Damage - Rank 3"
+      "주문 피해 - 3단계"
     ]
   },
   "2_9_7": {
     "id": "2_9_7",
-    "name": "The Tunnel",
-    "map_name": "The Tunnel",
+    "name": "터널",
+    "map_name": "터널",
     "act": 9,
     "level": 62,
     "has_waypoint": true,
@@ -1881,13 +1881,13 @@
       "2_9_8"
     ],
     "crafting_recipes": [
-      "All Attributes - Rank 2"
+      "전체 능력치 - 2단계"
     ]
   },
   "1_5_5": {
     "id": "1_5_5",
-    "name": "The Chamber of Innocence",
-    "map_name": "The Chamber of Innocence",
+    "name": "결백의 방",
+    "map_name": "결백의 방",
     "act": 5,
     "level": 43,
     "has_waypoint": true,
@@ -1898,13 +1898,13 @@
       "1_5_4b"
     ],
     "crafting_recipes": [
-      "Movement Speed and Exerted Attacks - Rank 2"
+      "이동 속도 및 전력 공격 - 2단계"
     ]
   },
   "2_7_town": {
     "id": "2_7_town",
-    "name": "The Bridge Encampment",
-    "map_name": "The Bridge Encampment",
+    "name": "다리 야영지",
+    "map_name": "다리 야영지",
     "act": 7,
     "level": 55,
     "has_waypoint": true,
@@ -1918,7 +1918,7 @@
   },
   "SanctumFoyer_Fellshrine": {
     "id": "SanctumFoyer_Fellshrine",
-    "name": "The Forbidden Sanctum",
+    "name": "금지된 성역",
     "map_name": null,
     "act": 7,
     "level": 1,
@@ -1932,8 +1932,8 @@
   },
   "2_7_4": {
     "id": "2_7_4",
-    "name": "The Crypt",
-    "map_name": "The Crypt",
+    "name": "지하실",
+    "map_name": "지하실",
     "act": 7,
     "level": 51,
     "has_waypoint": true,
@@ -1943,13 +1943,13 @@
       "2_7_3"
     ],
     "crafting_recipes": [
-      "Damage over Time - Rank 1"
+      "지속 피해 - 1단계"
     ]
   },
   "2_9_8": {
     "id": "2_9_8",
-    "name": "The Quarry",
-    "map_name": "The Quarry",
+    "name": "채석장",
+    "map_name": "채석장",
     "act": 9,
     "level": 63,
     "has_waypoint": true,
@@ -1961,12 +1961,12 @@
       "2_9_10_1"
     ],
     "crafting_recipes": [
-      "Physical Damage - Rank 3"
+      "물리 피해 - 3단계"
     ]
   },
   "1_5_4b": {
     "id": "1_5_4b",
-    "name": "The Torched Courts",
+    "name": "타오르는 법정",
     "map_name": null,
     "act": 5,
     "level": 44,
@@ -1981,8 +1981,8 @@
   },
   "2_6_15": {
     "id": "2_6_15",
-    "name": "The Brine King's Reef",
-    "map_name": "The Brine King's Reef",
+    "name": "염수왕의 암초",
+    "map_name": "염수왕의 암초",
     "act": 6,
     "level": 50,
     "has_waypoint": true,
@@ -1996,7 +1996,7 @@
   },
   "2_9_9": {
     "id": "2_9_9",
-    "name": "The Refinery",
+    "name": "제련소",
     "map_name": null,
     "act": 9,
     "level": 63,
@@ -2007,12 +2007,12 @@
       "2_9_8"
     ],
     "crafting_recipes": [
-      "Trigger a Socketed Spell when you Use a Skill"
+      "스킬 또는 집중 사용 시 장착된 주문 발동"
     ]
   },
   "2_9_10_1": {
     "id": "2_9_10_1",
-    "name": "The Belly of the Beast",
+    "name": "짐승의 소굴",
     "map_name": null,
     "act": 9,
     "level": 63,
@@ -2027,8 +2027,8 @@
   },
   "1_5_3b": {
     "id": "1_5_3b",
-    "name": "The Ruined Square",
-    "map_name": "The Ruined Square",
+    "name": "멸망한 광장",
+    "map_name": "멸망한 광장",
     "act": 5,
     "level": 44,
     "has_waypoint": true,
@@ -2044,8 +2044,8 @@
   },
   "2_6_14": {
     "id": "2_6_14",
-    "name": "The Beacon",
-    "map_name": "The Beacon",
+    "name": "등대",
+    "map_name": "등대",
     "act": 6,
     "level": 49,
     "has_waypoint": true,
@@ -2056,12 +2056,12 @@
       "2_6_15"
     ],
     "crafting_recipes": [
-      "Life and Mana - Rank 2"
+      "생명력 및 마나 - 2단계"
     ]
   },
   "2_9_10_2": {
     "id": "2_9_10_2",
-    "name": "The Rotting Core",
+    "name": "썩어가는 중심부",
     "map_name": null,
     "act": 9,
     "level": 64,
@@ -2076,7 +2076,7 @@
   },
   "1_5_6": {
     "id": "1_5_6",
-    "name": "The Ossuary",
+    "name": "납골당",
     "map_name": null,
     "act": 5,
     "level": 44,
@@ -2087,13 +2087,13 @@
       "1_5_3b"
     ],
     "crafting_recipes": [
-      "Physical Damage - Rank 2"
+      "물리 피해 - 2단계"
     ]
   },
   "1_5_8": {
     "id": "1_5_8",
-    "name": "The Cathedral Rooftop",
-    "map_name": "The Cathedral Rooftop",
+    "name": "대성당 옥상",
+    "map_name": "대성당 옥상",
     "act": 5,
     "level": 45,
     "has_waypoint": true,
@@ -2107,8 +2107,8 @@
   },
   "1_5_7": {
     "id": "1_5_7",
-    "name": "The Reliquary",
-    "map_name": "The Reliquary",
+    "name": "성유물 보관실",
+    "map_name": "성유물 보관실",
     "act": 5,
     "level": 44,
     "has_waypoint": true,
@@ -2118,12 +2118,12 @@
       "1_5_3b"
     ],
     "crafting_recipes": [
-      "Accuracy - Rank 1"
+      "정확도 - 1단계"
     ]
   },
   "2_6_13": {
     "id": "2_6_13",
-    "name": "The Cavern of Anger",
+    "name": "분노의 암굴",
     "map_name": null,
     "act": 6,
     "level": 49,
@@ -2138,8 +2138,8 @@
   },
   "2_10_town": {
     "id": "2_10_town",
-    "name": "Oriath Docks",
-    "map_name": "Oriath Docks",
+    "name": "오리아스 부두",
+    "map_name": "오리아스 부두",
     "act": 10,
     "level": 69,
     "has_waypoint": true,
@@ -2155,8 +2155,8 @@
   },
   "2_6_town": {
     "id": "2_6_town",
-    "name": "Lioneye's Watch",
-    "map_name": "Lioneye's Watch",
+    "name": "라이온아이 초소",
+    "map_name": "라이온아이 초소",
     "act": 6,
     "level": 50,
     "has_waypoint": true,
@@ -2171,8 +2171,8 @@
   },
   "2_6_12": {
     "id": "2_6_12",
-    "name": "The Southern Forest",
-    "map_name": "The Southern Forest",
+    "name": "남쪽 숲",
+    "map_name": "남쪽 숲",
     "act": 6,
     "level": 49,
     "has_waypoint": true,
@@ -2186,7 +2186,7 @@
   },
   "2_10_1": {
     "id": "2_10_1",
-    "name": "The Cathedral Rooftop",
+    "name": "대성당 옥상",
     "map_name": null,
     "act": 10,
     "level": 64,
@@ -2201,7 +2201,7 @@
   },
   "2_10_6": {
     "id": "2_10_6",
-    "name": "The Feeding Trough",
+    "name": "먹이통",
     "map_name": null,
     "act": 10,
     "level": 67,
@@ -2213,13 +2213,13 @@
       "2_10_town"
     ],
     "crafting_recipes": [
-      "Life and Mana - Rank 3"
+      "생명력 및 마나 - 3단계"
     ]
   },
   "2_11_endgame_town": {
     "id": "2_11_endgame_town",
-    "name": "Karui Shores",
-    "map_name": "Karui Shores",
+    "name": "카루이의 바닷가",
+    "map_name": "카루이의 바닷가",
     "act": 11,
     "level": 69,
     "has_waypoint": true,
@@ -2229,13 +2229,13 @@
       "2_10_town"
     ],
     "crafting_recipes": [
-      "Movement Speed and Flask Enchantments - Rank 3"
+      "이동 속도 및 플라스크 인챈트 - 3단계"
     ]
   },
   "2_6_2": {
     "id": "2_6_2",
-    "name": "The Coast",
-    "map_name": "The Coast",
+    "name": "해안 지대",
+    "map_name": "해안 지대",
     "act": 6,
     "level": 45,
     "has_waypoint": true,
@@ -2250,7 +2250,7 @@
   },
   "2_6_1": {
     "id": "2_6_1",
-    "name": "The Twilight Strand",
+    "name": "황혼의 해안",
     "map_name": null,
     "act": 6,
     "level": 45,
@@ -2264,8 +2264,8 @@
   },
   "2_6_10": {
     "id": "2_6_10",
-    "name": "The Riverways",
-    "map_name": "The Riverways",
+    "name": "강변길",
+    "map_name": "강변길",
     "act": 6,
     "level": 48,
     "has_waypoint": true,
@@ -2280,8 +2280,8 @@
   },
   "2_10_2": {
     "id": "2_10_2",
-    "name": "The Ravaged Square",
-    "map_name": "The Ravaged Square",
+    "name": "파괴된 광장",
+    "map_name": "파괴된 광장",
     "act": 10,
     "level": 64,
     "has_waypoint": true,
@@ -2299,7 +2299,7 @@
   },
   "2_10_5": {
     "id": "2_10_5",
-    "name": "The Canals",
+    "name": "운하",
     "map_name": null,
     "act": 10,
     "level": 66,
@@ -2314,7 +2314,7 @@
   },
   "2_6_4": {
     "id": "2_6_4",
-    "name": "The Mud Flats",
+    "name": "갯벌",
     "map_name": null,
     "act": 6,
     "level": 46,
@@ -2329,7 +2329,7 @@
   },
   "2_6_3": {
     "id": "2_6_3",
-    "name": "The Tidal Island",
+    "name": "물결 섬",
     "map_name": null,
     "act": 6,
     "level": 45,
@@ -2343,8 +2343,8 @@
   },
   "2_6_9": {
     "id": "2_6_9",
-    "name": "The Western Forest",
-    "map_name": "The Western Forest",
+    "name": "서쪽 숲",
+    "map_name": "서쪽 숲",
     "act": 6,
     "level": 48,
     "has_waypoint": true,
@@ -2355,12 +2355,12 @@
       "2_6_10"
     ],
     "crafting_recipes": [
-      "Attributes - Rank 2"
+      "능력치 - 2단계"
     ]
   },
   "2_6_11": {
     "id": "2_6_11",
-    "name": "The Wetlands",
+    "name": "습지대",
     "map_name": null,
     "act": 6,
     "level": 48,
@@ -2374,7 +2374,7 @@
   },
   "2_10_3": {
     "id": "2_10_3",
-    "name": "The Torched Courts",
+    "name": "타오르는 법정",
     "map_name": null,
     "act": 10,
     "level": 65,
@@ -2389,7 +2389,7 @@
   },
   "2_10_9": {
     "id": "2_10_9",
-    "name": "The Ossuary",
+    "name": "납골당",
     "map_name": null,
     "act": 10,
     "level": 67,
@@ -2400,13 +2400,13 @@
       "2_10_2"
     ],
     "crafting_recipes": [
-      "Chaos Damage - Rank 2"
+      "카오스 피해 - 2단계"
     ]
   },
   "2_10_8": {
     "id": "2_10_8",
-    "name": "The Reliquary",
-    "map_name": "The Reliquary",
+    "name": "성유물 보관실",
+    "map_name": "성유물 보관실",
     "act": 10,
     "level": 67,
     "has_waypoint": true,
@@ -2419,8 +2419,8 @@
   },
   "2_10_7": {
     "id": "2_10_7",
-    "name": "The Control Blocks",
-    "map_name": "The Control Blocks",
+    "name": "관리 구역",
+    "map_name": "관리 구역",
     "act": 10,
     "level": 66,
     "has_waypoint": true,
@@ -2433,7 +2433,7 @@
   },
   "2_6_5": {
     "id": "2_6_5",
-    "name": "The Karui Fortress",
+    "name": "카루이 요새",
     "map_name": null,
     "act": 6,
     "level": 46,
@@ -2445,13 +2445,13 @@
       "2_6_6"
     ],
     "crafting_recipes": [
-      "Defences - Rank 2"
+      "방어력 - 2단계"
     ]
   },
   "2_6_8": {
     "id": "2_6_8",
-    "name": "Prisoner's Gate",
-    "map_name": "Prisoner's Gate",
+    "name": "죄수의 문",
+    "map_name": "죄수의 문",
     "act": 6,
     "level": 47,
     "has_waypoint": true,
@@ -2465,8 +2465,8 @@
   },
   "2_10_4": {
     "id": "2_10_4",
-    "name": "The Desecrated Chambers",
-    "map_name": "The Desecrated Chambers",
+    "name": "무너진 방",
+    "map_name": "무너진 방",
     "act": 10,
     "level": 65,
     "has_waypoint": true,
@@ -2476,13 +2476,13 @@
       "2_10_3"
     ],
     "crafting_recipes": [
-      "Accuracy - Rank 2"
+      "정확도 - 2단계"
     ]
   },
   "2_6_6": {
     "id": "2_6_6",
-    "name": "The Ridge",
-    "map_name": "The Ridge",
+    "name": "산등성이",
+    "map_name": "산등성이",
     "act": 6,
     "level": 46,
     "has_waypoint": true,
@@ -2496,7 +2496,7 @@
   },
   "2_6_7_2": {
     "id": "2_6_7_2",
-    "name": "Shavronne's Tower",
+    "name": "샤브론의 탑",
     "map_name": null,
     "act": 6,
     "level": 47,
@@ -2508,13 +2508,13 @@
       "2_6_8"
     ],
     "crafting_recipes": [
-      "Spell Damage - Rank 2"
+      "주문 피해 - 2단계"
     ]
   },
   "2_6_7_1": {
     "id": "2_6_7_1",
-    "name": "The Lower Prison",
-    "map_name": "The Prison",
+    "name": "수용소 하층",
+    "map_name": "수용소",
     "act": 6,
     "level": 47,
     "has_waypoint": true,
@@ -2525,7 +2525,7 @@
       "2_6_7_2"
     ],
     "crafting_recipes": [
-      "Double Resistances - Rank 1"
+      "이중 저항 - 1단계"
     ]
   }
 }

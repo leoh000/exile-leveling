@@ -94,7 +94,7 @@ function WaypointComponent() {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.waypoint)}>Waypoint</span>
+      <span className={classNames(styles.waypoint)}>거점</span>
     </div>
   );
 }
@@ -107,7 +107,7 @@ function TrialComponent() {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.trial)}>Trial of Ascendancy</span>
+      <span className={classNames(styles.trial)}>전직 시험</span>
     </div>
   );
 }
@@ -115,7 +115,7 @@ function TrialComponent() {
 function LogoutComponent(area: GameData.Area) {
   return (
     <>
-      {GenericComponent("Logout")}
+      {GenericComponent("로그아웃")}
       <span> ➞ </span>
       {AreaComponent(area.name, area.is_town_area, area.level)}
     </>
@@ -130,7 +130,7 @@ function PortalComponent(area?: GameData.Area) {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.portal)}>Portal</span>
+      <span className={classNames(styles.portal)}>포탈</span>
       {area && (
         <>
           <span> ➞ </span>
@@ -169,7 +169,7 @@ function CraftingComponent(craftingRecipes: string[]) {
           className={classNames("inlineIcon")}
           alt=""
         />
-        {GenericComponent("Crafting: ")}
+        {GenericComponent("제작법: ")}
       </div>
       {GenericComponent(craftingRecipes.join(", "))}
     </span>
@@ -191,7 +191,7 @@ function AscendComponent(version: string): [React.ReactNode, React.ReactNode] {
         className={classNames("inlineIcon")}
         alt=""
       />
-      <span className={classNames(styles.trial)}>Ascend</span>
+      <span className={classNames(styles.trial)}>전직하기</span>
     </div>,
     <a
       href={GUIDE_URL_LOOKUP[version]}

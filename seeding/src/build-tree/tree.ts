@@ -34,6 +34,16 @@ const ASCENDANCY_OFFSETS: Record<string, SkillTree.Coord> = {
   ["Warden"]: { x: 8250, y: 8350 },
   ["Primalist"]: { x: 7200, y: 9400 },
   ["Warlock"]: { x: 9300, y: 7300 },
+  ["Trialmaster"]: { x: 0, y: 0 },
+  ["Oshabi"]: { x: 0, y: 0 },
+  ["KingInTheMists"]: { x: 0, y: 0 },
+  ["Catarina"]: { x: 0, y: 0 },
+  ["Aul"]: { x: 0, y: 0 },
+  ["Lycia"]: { x: 0, y: 0 },
+  ["Olroth"]: { x: 0, y: 0 },
+  ["Farrul"]: { x: 0, y: 0 },
+  ["Delirious"]: { x: 0, y: 0 },
+  ["Breachlord"]: { x: 0, y: 0 },
 };
 
 const TWO_PI = Math.PI * 2;

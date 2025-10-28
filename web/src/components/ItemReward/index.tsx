@@ -12,9 +12,9 @@ import { MdCircle } from "react-icons/md";
 function ItemRewardVerb(type: ItemRewardProps["rewardType"]) {
   switch (type) {
     case "quest":
-      return <span>Take </span>;
+      return <span> 받기</span>;
     case "vendor":
-      return <span>Buy </span>;
+      return <span> 사기 </span>;
     default:
       return <></>;
   }
@@ -30,13 +30,13 @@ interface ItemRewardProps {
 export function ItemReward({ item, count, cost, rewardType }: ItemRewardProps) {
   return (
     <>
-      {ItemRewardVerb(rewardType)}
       <span className={classNames(styles.default)}>{item}</span>
       {count && count > 1 && <span> x{count}</span>}
+      {ItemRewardVerb(rewardType)}
       {rewardType === "vendor" && cost !== undefined && (
         <div className={classNames(styles.noWrap)}>
-          <span> for </span>
           <InlineFakeBlock child={cost} />
+          <span> 필요</span>
         </div>
       )}
     </>

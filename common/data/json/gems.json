@@ -1,3773 +1,3773 @@
 {
   "Metadata/Items/Gems/SkillGemFireball": {
     "id": "Metadata/Items/Gems/SkillGemFireball",
-    "name": "Fireball",
+    "name": "화염구",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalFireball": {
     "id": "Metadata/Items/Gems/SkillGemVaalFireball",
-    "name": "Vaal Fireball",
+    "name": "바알 화염구",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemIceNova": {
     "id": "Metadata/Items/Gems/SkillGemIceNova",
-    "name": "Ice Nova",
+    "name": "얼음 폭발",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalIceNova": {
     "id": "Metadata/Items/Gems/SkillGemVaalIceNova",
-    "name": "Vaal Ice Nova",
+    "name": "바알 얼음 폭발",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLeapSlam": {
     "id": "Metadata/Items/Gems/SkillGemLeapSlam",
-    "name": "Leap Slam",
+    "name": "도약 강타",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemChargedDash": {
     "id": "Metadata/Items/Gems/SkillGemChargedDash",
-    "name": "Charged Dash",
+    "name": "충전 질주",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemChargedAttack": {
     "id": "Metadata/Items/Gems/SkillGemChargedAttack",
-    "name": "Blade Flurry",
+    "name": "질풍의 칼날",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSweep": {
     "id": "Metadata/Items/Gems/SkillGemSweep",
-    "name": "Sweep",
+    "name": "휩쓸기",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemGroundSlam": {
     "id": "Metadata/Items/Gems/SkillGemGroundSlam",
-    "name": "Ground Slam",
+    "name": "대지 강타",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalGroundSlam": {
     "id": "Metadata/Items/Gems/SkillGemVaalGroundSlam",
-    "name": "Vaal Ground Slam",
+    "name": "바알 대지 강타",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemCleave": {
     "id": "Metadata/Items/Gems/SkillGemCleave",
-    "name": "Cleave",
+    "name": "회전베기",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemShieldCharge": {
     "id": "Metadata/Items/Gems/SkillGemShieldCharge",
-    "name": "Shield Charge",
+    "name": "방패 돌진",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEnduringCry": {
     "id": "Metadata/Items/Gems/SkillGemEnduringCry",
-    "name": "Enduring Cry",
+    "name": "인내의 함성",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDoubleStrike": {
     "id": "Metadata/Items/Gems/SkillGemDoubleStrike",
-    "name": "Double Strike",
+    "name": "이중 타격",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalDoubleStrike": {
     "id": "Metadata/Items/Gems/SkillGemVaalDoubleStrike",
-    "name": "Vaal Double Strike",
+    "name": "바알 이중 타격",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLacerate": {
     "id": "Metadata/Items/Gems/SkillGemLacerate",
-    "name": "Lacerate",
+    "name": "피부 찢기",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemElementalHit": {
     "id": "Metadata/Items/Gems/SkillGemElementalHit",
-    "name": "Elemental Hit",
+    "name": "원소의 일격",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemImmortalCall": {
     "id": "Metadata/Items/Gems/SkillGemImmortalCall",
-    "name": "Immortal Call",
+    "name": "불멸의 외침",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalImmortalCall": {
     "id": "Metadata/Items/Gems/SkillGemVaalImmortalCall",
-    "name": "Vaal Immortal Call",
+    "name": "바알 불멸의 외침",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDualStrike": {
     "id": "Metadata/Items/Gems/SkillGemDualStrike",
-    "name": "Dual Strike",
+    "name": "쌍수 타격",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemWhirlingBlades": {
     "id": "Metadata/Items/Gems/SkillGemWhirlingBlades",
-    "name": "Whirling Blades",
+    "name": "칼날 선회",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFrenzy": {
     "id": "Metadata/Items/Gems/SkillGemFrenzy",
-    "name": "Frenzy",
+    "name": "격분",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDetonateDead": {
     "id": "Metadata/Items/Gems/SkillGemDetonateDead",
-    "name": "Detonate Dead",
+    "name": "시체 폭발",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalDetonateDead": {
     "id": "Metadata/Items/Gems/SkillGemVaalDetonateDead",
-    "name": "Vaal Detonate Dead",
+    "name": "바알 시체 폭발",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVolatileDead": {
     "id": "Metadata/Items/Gems/SkillGemVolatileDead",
-    "name": "Volatile Dead",
+    "name": "시체 불덩이",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBoneLance": {
     "id": "Metadata/Items/Gems/SkillGemBoneLance",
-    "name": "Unearth",
+    "name": "발굴",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSplitArrow": {
     "id": "Metadata/Items/Gems/SkillGemSplitArrow",
-    "name": "Split Arrow",
+    "name": "분할 화살",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemAddedFireDamage": {
     "id": "Metadata/Items/Gems/SupportGemAddedFireDamage",
-    "name": "Added Fire Damage Support",
+    "name": "화염 피해 추가 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFasterAttack": {
     "id": "Metadata/Items/Gems/SupportGemFasterAttack",
-    "name": "Faster Attacks Support",
+    "name": "공격 속도 증가 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemGreaterMultipleProjectiles",
-    "name": "Greater Multiple Projectiles Support",
+    "name": "상위 다중 투사체 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLesserMultipleProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemLesserMultipleProjectiles",
-    "name": "Lesser Multiple Projectiles Support",
+    "name": "하위 다중 투사체 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFasterProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemFasterProjectiles",
-    "name": "Faster Projectiles Support",
+    "name": "투사체 속도 증가 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAddedColdDamage": {
     "id": "Metadata/Items/Gems/SupportGemAddedColdDamage",
-    "name": "Added Cold Damage Support",
+    "name": "냉기 피해 추가 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAdditionalAccuracy": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalAccuracy",
-    "name": "Additional Accuracy Support",
+    "name": "정확도 추가 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffect",
-    "name": "Increased Area of Effect Support",
+    "name": "효과 범위 증가 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAddedLightningDamage": {
     "id": "Metadata/Items/Gems/SupportGemAddedLightningDamage",
-    "name": "Added Lightning Damage Support",
+    "name": "번개 피해 추가 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemColdSnap": {
     "id": "Metadata/Items/Gems/SkillGemColdSnap",
-    "name": "Cold Snap",
+    "name": "한파",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalColdSnap": {
     "id": "Metadata/Items/Gems/SkillGemVaalColdSnap",
-    "name": "Vaal Cold Snap",
+    "name": "바알 한파",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRaiseZombie": {
     "id": "Metadata/Items/Gems/SkillGemRaiseZombie",
-    "name": "Raise Zombie",
+    "name": "좀비 소환",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPoisonArrow": {
     "id": "Metadata/Items/Gems/SkillGemPoisonArrow",
-    "name": "Caustic Arrow",
+    "name": "부식성 화살",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBloodRage": {
     "id": "Metadata/Items/Gems/SkillGemBloodRage",
-    "name": "Blood Rage",
+    "name": "피의 격노",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRighteousFire": {
     "id": "Metadata/Items/Gems/SkillGemRighteousFire",
-    "name": "Righteous Fire",
+    "name": "정의의 화염",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalRighteousFire": {
     "id": "Metadata/Items/Gems/SkillGemVaalRighteousFire",
-    "name": "Vaal Righteous Fire",
+    "name": "바알 정의의 화염",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDischarge": {
     "id": "Metadata/Items/Gems/SkillGemDischarge",
-    "name": "Discharge",
+    "name": "방출",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPortal": {
     "id": "Metadata/Items/Gems/SkillGemPortal",
-    "name": "Portal",
+    "name": "포탈",
     "primary_attribute": "none",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalPortal": {
     "id": "Metadata/Items/Gems/SkillGemVaalPortal",
-    "name": "Vaal Breach",
+    "name": "바알 균열",
     "primary_attribute": "none",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemReducedMana": {
     "id": "Metadata/Items/Gems/SupportGemReducedMana",
-    "name": "Inspiration Support",
+    "name": "영감 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedCriticalStrikes",
-    "name": "Increased Critical Strikes Support",
+    "name": "치명타 증가 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemIncreasedCriticalDamage": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedCriticalDamage",
-    "name": "Increased Critical Damage Support",
+    "name": "치명타 피해 증가 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemKnockback": {
     "id": "Metadata/Items/Gems/SupportGemKnockback",
-    "name": "Knockback Support",
+    "name": "밀어내기 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLifeLeech": {
     "id": "Metadata/Items/Gems/SupportGemLifeLeech",
-    "name": "Life Leech Support",
+    "name": "생명력 흡수 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemManaLeech": {
     "id": "Metadata/Items/Gems/SupportGemManaLeech",
-    "name": "Mana Leech Support",
+    "name": "마나 흡수 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAddedChaosDamage": {
     "id": "Metadata/Items/Gems/SupportGemAddedChaosDamage",
-    "name": "Added Chaos Damage Support",
+    "name": "카오스 피해 추가 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemFlickerStrike": {
     "id": "Metadata/Items/Gems/SkillGemFlickerStrike",
-    "name": "Flicker Strike",
+    "name": "점멸 타격",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalFlickerStrike": {
     "id": "Metadata/Items/Gems/SkillGemVaalFlickerStrike",
-    "name": "Vaal Flicker Strike",
+    "name": "바알 점멸 타격",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSpark": {
     "id": "Metadata/Items/Gems/SkillGemSpark",
-    "name": "Spark",
+    "name": "전기불꽃",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalSpark": {
     "id": "Metadata/Items/Gems/SkillGemVaalSpark",
-    "name": "Vaal Spark",
+    "name": "바알 전기불꽃",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemStun": {
     "id": "Metadata/Items/Gems/SupportGemStun",
-    "name": "Stun Support",
+    "name": "기절 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemIceSpear": {
     "id": "Metadata/Items/Gems/SkillGemIceSpear",
-    "name": "Ice Spear",
+    "name": "얼음 창",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemPierce": {
     "id": "Metadata/Items/Gems/SupportGemPierce",
-    "name": "Pierce Support",
+    "name": "관통 보조",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemTrap": {
     "id": "Metadata/Items/Gems/SupportGemTrap",
-    "name": "Trap Support",
+    "name": "덫 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemRaiseSpectre": {
     "id": "Metadata/Items/Gems/SkillGemRaiseSpectre",
-    "name": "Raise Spectre",
+    "name": "망령 소환",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemInfernalBlow": {
     "id": "Metadata/Items/Gems/SkillGemInfernalBlow",
-    "name": "Infernal Blow",
+    "name": "지옥불 맹타",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemGlacialHammer": {
     "id": "Metadata/Items/Gems/SkillGemGlacialHammer",
-    "name": "Glacial Hammer",
+    "name": "빙하 망치",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalGlacialHammer": {
     "id": "Metadata/Items/Gems/SkillGemVaalGlacialHammer",
-    "name": "Vaal Glacial Hammer",
+    "name": "바알 빙하 망치",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFrostWall": {
     "id": "Metadata/Items/Gems/SkillGemFrostWall",
-    "name": "Frost Wall",
+    "name": "서리 방벽",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFreezingPulse": {
     "id": "Metadata/Items/Gems/SkillGemFreezingPulse",
-    "name": "Freezing Pulse",
+    "name": "동결 파동",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemShockNova": {
     "id": "Metadata/Items/Gems/SkillGemShockNova",
-    "name": "Shock Nova",
+    "name": "충격 폭발",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemViperStrike": {
     "id": "Metadata/Items/Gems/SkillGemViperStrike",
-    "name": "Viper Strike",
+    "name": "맹독 타격",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPhaseRun": {
     "id": "Metadata/Items/Gems/SkillGemPhaseRun",
-    "name": "Phase Run",
+    "name": "위상 질주",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemMeleePhysicalDamage": {
     "id": "Metadata/Items/Gems/SupportGemMeleePhysicalDamage",
-    "name": "Melee Physical Damage Support",
+    "name": "근접 물리 피해 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemItemRarity": {
     "id": "Metadata/Items/Gems/SupportGemItemRarity",
-    "name": "Item Rarity Support",
+    "name": "아이템 희귀도 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFasterCast": {
     "id": "Metadata/Items/Gems/SupportGemFasterCast",
-    "name": "Faster Casting Support",
+    "name": "시전 속도 증가 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemExplosiveArrow": {
     "id": "Metadata/Items/Gems/SkillGemExplosiveArrow",
-    "name": "Explosive Arrow",
+    "name": "폭발 화살",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemTemporalChains": {
     "id": "Metadata/Items/Gems/SkillGemTemporalChains",
-    "name": "Temporal Chains",
+    "name": "시간의 사슬",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemElementalWeakness": {
     "id": "Metadata/Items/Gems/SkillGemElementalWeakness",
-    "name": "Elemental Weakness",
+    "name": "원소 약화",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemWarlordsMark": {
     "id": "Metadata/Items/Gems/SkillGemWarlordsMark",
-    "name": "Warlord's Mark",
+    "name": "전쟁군주의 징표",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPunishment": {
     "id": "Metadata/Items/Gems/SkillGemPunishment",
-    "name": "Punishment",
+    "name": "응징",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEnfeeble": {
     "id": "Metadata/Items/Gems/SkillGemEnfeeble",
-    "name": "Enfeeble",
+    "name": "쇠약화",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemCriticalWeakness": {
     "id": "Metadata/Items/Gems/SkillGemCriticalWeakness",
-    "name": "Assassin's Mark",
+    "name": "암살자의 징표",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemProjectileWeakness": {
     "id": "Metadata/Items/Gems/SkillGemProjectileWeakness",
-    "name": "Sniper's Mark",
+    "name": "저격수의 징표",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVulnerability": {
     "id": "Metadata/Items/Gems/SkillGemVulnerability",
-    "name": "Despair",
+    "name": "절망",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLightningWarp": {
     "id": "Metadata/Items/Gems/SkillGemLightningWarp",
-    "name": "Lightning Warp",
+    "name": "번개 차원 이동",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonSkeletons": {
     "id": "Metadata/Items/Gems/SkillGemSummonSkeletons",
-    "name": "Summon Skeletons",
+    "name": "해골 소환",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalSummonSkeletons": {
     "id": "Metadata/Items/Gems/SkillGemVaalSummonSkeletons",
-    "name": "Vaal Summon Skeletons",
+    "name": "바알 해골 소환",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemHeavyStrike": {
     "id": "Metadata/Items/Gems/SkillGemHeavyStrike",
-    "name": "Heavy Strike",
+    "name": "묵직한 타격",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDominatingBlow": {
     "id": "Metadata/Items/Gems/SkillGemDominatingBlow",
-    "name": "Dominating Blow",
+    "name": "지배의 맹타",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRainOfArrows": {
     "id": "Metadata/Items/Gems/SkillGemRainOfArrows",
-    "name": "Rain of Arrows",
+    "name": "화살비",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalRainOfArrows": {
     "id": "Metadata/Items/Gems/SkillGemVaalRainOfArrows",
-    "name": "Vaal Rain of Arrows",
+    "name": "바알 화살비",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemConcentratedEffect": {
     "id": "Metadata/Items/Gems/SupportGemConcentratedEffect",
-    "name": "Concentrated Effect Support",
+    "name": "효과 집중 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMinionDamage": {
     "id": "Metadata/Items/Gems/SupportGemMinionDamage",
-    "name": "Minion Damage Support",
+    "name": "소환수 피해 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemIncreasedDuration": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedDuration",
-    "name": "More Duration Support",
+    "name": "지속시간 증폭 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemColdToFire": {
     "id": "Metadata/Items/Gems/SupportGemColdToFire",
-    "name": "Cold to Fire Support",
+    "name": "냉기 화염 전환 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemChanceToIgnite": {
     "id": "Metadata/Items/Gems/SupportGemChanceToIgnite",
-    "name": "Combustion Support",
+    "name": "연소 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMinionSpeed": {
     "id": "Metadata/Items/Gems/SupportGemMinionSpeed",
-    "name": "Minion Speed Support",
+    "name": "소환수 속도 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMinionLife": {
     "id": "Metadata/Items/Gems/SupportGemMinionLife",
-    "name": "Minion Life Support",
+    "name": "소환수 생명력 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemWeaponElementalDamage": {
     "id": "Metadata/Items/Gems/SupportGemWeaponElementalDamage",
-    "name": "Elemental Damage with Attacks Support",
+    "name": "공격 시 원소 피해 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemBloodlust": {
     "id": "Metadata/Items/Gems/SupportGemBloodlust",
-    "name": "Bloodlust Support",
+    "name": "유혈 충동 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLifeGainOnHit": {
     "id": "Metadata/Items/Gems/SupportGemLifeGainOnHit",
-    "name": "Life Gain on Hit Support",
+    "name": "명중 시 생명력 획득 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemFirestorm": {
     "id": "Metadata/Items/Gems/SkillGemFirestorm",
-    "name": "Firestorm",
+    "name": "화염 폭풍",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLightningStrike": {
     "id": "Metadata/Items/Gems/SkillGemLightningStrike",
-    "name": "Lightning Strike",
+    "name": "번개 타격",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalLightningStrike": {
     "id": "Metadata/Items/Gems/SkillGemVaalLightningStrike",
-    "name": "Vaal Lightning Strike",
+    "name": "바알 번개 타격",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemTempestShield": {
     "id": "Metadata/Items/Gems/SkillGemTempestShield",
-    "name": "Tempest Shield",
+    "name": "폭풍의 방패",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemMoltenShell": {
     "id": "Metadata/Items/Gems/SkillGemMoltenShell",
-    "name": "Molten Shell",
+    "name": "용암 방패",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalMoltenShell": {
     "id": "Metadata/Items/Gems/SkillGemVaalMoltenShell",
-    "name": "Vaal Molten Shell",
+    "name": "바알 용암 방패",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPowerSiphon": {
     "id": "Metadata/Items/Gems/SkillGemPowerSiphon",
-    "name": "Power Siphon",
+    "name": "권능 착취",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalPowerSiphon": {
     "id": "Metadata/Items/Gems/SkillGemVaalPowerSiphon",
-    "name": "Vaal Power Siphon",
+    "name": "바알 권능 착취",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPuncture": {
     "id": "Metadata/Items/Gems/SkillGemPuncture",
-    "name": "Puncture",
+    "name": "관통상",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLightningArrow": {
     "id": "Metadata/Items/Gems/SkillGemLightningArrow",
-    "name": "Lightning Arrow",
+    "name": "번개 화살",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemHaste": {
     "id": "Metadata/Items/Gems/SkillGemHaste",
-    "name": "Haste",
+    "name": "가속",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalHaste": {
     "id": "Metadata/Items/Gems/SkillGemVaalHaste",
-    "name": "Vaal Haste",
+    "name": "바알 가속",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPurity": {
     "id": "Metadata/Items/Gems/SkillGemPurity",
-    "name": "Purity of Elements",
+    "name": "원소의 순수함",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVitality": {
     "id": "Metadata/Items/Gems/SkillGemVitality",
-    "name": "Vitality",
+    "name": "활력",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDiscipline": {
     "id": "Metadata/Items/Gems/SkillGemDiscipline",
-    "name": "Discipline",
+    "name": "단련",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalDiscipline": {
     "id": "Metadata/Items/Gems/SkillGemVaalDiscipline",
-    "name": "Vaal Discipline",
+    "name": "바알 단련",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemGrace": {
     "id": "Metadata/Items/Gems/SkillGemGrace",
-    "name": "Grace",
+    "name": "은총",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalGrace": {
     "id": "Metadata/Items/Gems/SkillGemVaalGrace",
-    "name": "Vaal Grace",
+    "name": "바알 은총",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDetermination": {
     "id": "Metadata/Items/Gems/SkillGemDetermination",
-    "name": "Determination",
+    "name": "결의",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemAnger": {
     "id": "Metadata/Items/Gems/SkillGemAnger",
-    "name": "Anger",
+    "name": "분노",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemHatred": {
     "id": "Metadata/Items/Gems/SkillGemHatred",
-    "name": "Hatred",
+    "name": "증오",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemWrath": {
     "id": "Metadata/Items/Gems/SkillGemWrath",
-    "name": "Wrath",
+    "name": "진노",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBurningArrow": {
     "id": "Metadata/Items/Gems/SkillGemBurningArrow",
-    "name": "Burning Arrow",
+    "name": "불타는 화살",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalBurningArrow": {
     "id": "Metadata/Items/Gems/SkillGemVaalBurningArrow",
-    "name": "Vaal Burning Arrow",
+    "name": "바알 불타는 화살",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemElementalProliferation": {
     "id": "Metadata/Items/Gems/SupportGemElementalProliferation",
-    "name": "Elemental Proliferation Support",
+    "name": "원소 확산 보조",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemBloodMagic": {
     "id": "Metadata/Items/Gems/SupportGemBloodMagic",
-    "name": "Arrogance Support",
+    "name": "오만 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemClarity": {
     "id": "Metadata/Items/Gems/SkillGemClarity",
-    "name": "Clarity",
+    "name": "명상",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalClarity": {
     "id": "Metadata/Items/Gems/SkillGemVaalClarity",
-    "name": "Vaal Clarity",
+    "name": "바알 명상",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemCullingStrike": {
     "id": "Metadata/Items/Gems/SupportGemCullingStrike",
-    "name": "Culling Strike Support",
+    "name": "마무리 타격 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemPointBlank": {
     "id": "Metadata/Items/Gems/SupportGemPointBlank",
-    "name": "Point Blank Support",
+    "name": "근접 사격 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemIronGrip": {
     "id": "Metadata/Items/Gems/SupportGemIronGrip",
-    "name": "Iron Grip Support",
+    "name": "강철 손아귀 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemIronWill": {
     "id": "Metadata/Items/Gems/SupportGemIronWill",
-    "name": "Iron Will Support",
+    "name": "강철의 의지 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMeleeDamageOnFullLife": {
     "id": "Metadata/Items/Gems/SupportGemMeleeDamageOnFullLife",
-    "name": "Damage on Full Life Support",
+    "name": "최대 생명력 시 피해 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSpellTotem": {
     "id": "Metadata/Items/Gems/SupportGemSpellTotem",
-    "name": "Spell Totem Support",
+    "name": "주문 토템 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemRemoteMine": {
     "id": "Metadata/Items/Gems/SupportGemRemoteMine",
-    "name": "Blastchain Mine Support",
+    "name": "연쇄 폭발 지뢰 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemDetonateMines": {
     "id": "Metadata/Items/Gems/SkillGemDetonateMines",
-    "name": "Detonate Mines",
+    "name": "지뢰 폭발",
     "primary_attribute": "none",
     "required_level": 8,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemShockwaveTotem": {
     "id": "Metadata/Items/Gems/SkillGemShockwaveTotem",
-    "name": "Shockwave Totem",
+    "name": "충격파 토템",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRejuvenationTotem": {
     "id": "Metadata/Items/Gems/SkillGemRejuvenationTotem",
-    "name": "Rejuvenation Totem",
+    "name": "회복 토템",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFreezeMine": {
     "id": "Metadata/Items/Gems/SkillGemFreezeMine",
-    "name": "Icicle Mine",
+    "name": "고드름 지뢰",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemConversionTrap": {
     "id": "Metadata/Items/Gems/SkillGemConversionTrap",
-    "name": "Conversion Trap",
+    "name": "전향 덫",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBearTrap": {
     "id": "Metadata/Items/Gems/SkillGemBearTrap",
-    "name": "Bear Trap",
+    "name": "곰 덫",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemChanceToFlee": {
     "id": "Metadata/Items/Gems/SupportGemChanceToFlee",
-    "name": "Chance to Flee Support",
+    "name": "도망칠 확률 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemFireTrap": {
     "id": "Metadata/Items/Gems/SkillGemFireTrap",
-    "name": "Fire Trap",
+    "name": "화염 덫",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDecoyTotem": {
     "id": "Metadata/Items/Gems/SkillGemDecoyTotem",
-    "name": "Decoy Totem",
+    "name": "미끼 토템",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDevouringTotem": {
     "id": "Metadata/Items/Gems/SkillGemDevouringTotem",
-    "name": "Devouring Totem",
+    "name": "포식 토템",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEtherealKnives": {
     "id": "Metadata/Items/Gems/SkillGemEtherealKnives",
-    "name": "Ethereal Knives",
+    "name": "천상의 단도",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemBlind": {
     "id": "Metadata/Items/Gems/SupportGemBlind",
-    "name": "Blind Support",
+    "name": "실명 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemIceShot": {
     "id": "Metadata/Items/Gems/SkillGemIceShot",
-    "name": "Ice Shot",
+    "name": "얼음 화살",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemArcticBreath": {
     "id": "Metadata/Items/Gems/SkillGemArcticBreath",
-    "name": "Creeping Frost",
+    "name": "엄습하는 서리",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemArc": {
     "id": "Metadata/Items/Gems/SkillGemArc",
-    "name": "Arc",
+    "name": "연쇄 번개",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalArc": {
     "id": "Metadata/Items/Gems/SkillGemVaalArc",
-    "name": "Vaal Arc",
+    "name": "바알 연쇄 번개",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemArcticArmour": {
     "id": "Metadata/Items/Gems/SkillGemArcticArmour",
-    "name": "Arctic Armour",
+    "name": "한기의 방어구",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalArcticArmour": {
     "id": "Metadata/Items/Gems/SkillGemVaalArcticArmour",
-    "name": "Vaal Arctic Armour",
+    "name": "바알 한기의 방어구",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFlameTotem": {
     "id": "Metadata/Items/Gems/SkillGemFlameTotem",
-    "name": "Holy Flame Totem",
+    "name": "신성한 화염 토템",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemRangedAttackTotem": {
     "id": "Metadata/Items/Gems/SupportGemRangedAttackTotem",
-    "name": "Ballista Totem Support",
+    "name": "쇠뇌 토템 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFirePenetration": {
     "id": "Metadata/Items/Gems/SupportGemFirePenetration",
-    "name": "Fire Penetration Support",
+    "name": "화염 관통 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemColdPenetration": {
     "id": "Metadata/Items/Gems/SupportGemColdPenetration",
-    "name": "Cold Penetration Support",
+    "name": "냉기 관통 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLightningPenetration": {
     "id": "Metadata/Items/Gems/SupportGemLightningPenetration",
-    "name": "Lightning Penetration Support",
+    "name": "번개 관통 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemElementalPenetration": {
     "id": "Metadata/Items/Gems/SupportGemElementalPenetration",
-    "name": "Elemental Penetration Support",
+    "name": "원소 관통 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemChain": {
     "id": "Metadata/Items/Gems/SupportGemChain",
-    "name": "Chain Support",
+    "name": "연쇄 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFork": {
     "id": "Metadata/Items/Gems/SupportGemFork",
-    "name": "Fork Support",
+    "name": "갈래 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemReturningProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemReturningProjectiles",
-    "name": "Returning Projectiles Support",
+    "name": "돌아오는 투사체 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemFlammability": {
     "id": "Metadata/Items/Gems/SkillGemFlammability",
-    "name": "Flammability",
+    "name": "인화성",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFrostbite": {
     "id": "Metadata/Items/Gems/SkillGemFrostbite",
-    "name": "Frostbite",
+    "name": "동상",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemConductivity": {
     "id": "Metadata/Items/Gems/SkillGemConductivity",
-    "name": "Conductivity",
+    "name": "전도성",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemStormBurst": {
     "id": "Metadata/Items/Gems/SkillGemStormBurst",
-    "name": "Storm Burst",
+    "name": "폭풍 점사",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemIncinerate": {
     "id": "Metadata/Items/Gems/SkillGemIncinerate",
-    "name": "Incinerate",
+    "name": "소각",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemCyclone": {
     "id": "Metadata/Items/Gems/SkillGemCyclone",
-    "name": "Cyclone",
+    "name": "회오리바람",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalCyclone": {
     "id": "Metadata/Items/Gems/SkillGemVaalCyclone",
-    "name": "Vaal Cyclone",
+    "name": "바알 회오리바람",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemMultistrike": {
     "id": "Metadata/Items/Gems/SupportGemMultistrike",
-    "name": "Multistrike Support",
+    "name": "연속타격 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMulticast": {
     "id": "Metadata/Items/Gems/SupportGemMulticast",
-    "name": "Spell Echo Support",
+    "name": "주문 메아리 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMeleeSplash": {
     "id": "Metadata/Items/Gems/SupportGemMeleeSplash",
-    "name": "Melee Splash Support",
+    "name": "근접 범위 피해 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemPowerChargeOnCrit": {
     "id": "Metadata/Items/Gems/SupportGemPowerChargeOnCrit",
-    "name": "Power Charge On Critical Support",
+    "name": "치명타 시 권능 충전 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemSearingBond": {
     "id": "Metadata/Items/Gems/SkillGemSearingBond",
-    "name": "Searing Bond",
+    "name": "불타는 굴레",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemIncreasedBurningDamage": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedBurningDamage",
-    "name": "Burning Damage Support",
+    "name": "화상 피해 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSummonElementalResistance": {
     "id": "Metadata/Items/Gems/SupportGemSummonElementalResistance",
-    "name": "Elemental Army Support",
+    "name": "원소의 군단 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCurseOnHit": {
     "id": "Metadata/Items/Gems/SupportGemCurseOnHit",
-    "name": "Hextouch Support",
+    "name": "사술 손길 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemReave": {
     "id": "Metadata/Items/Gems/SkillGemReave",
-    "name": "Reave",
+    "name": "약탈",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalReave": {
     "id": "Metadata/Items/Gems/SkillGemVaalReave",
-    "name": "Vaal Reave",
+    "name": "바알 약탈",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemCastOnCrit": {
     "id": "Metadata/Items/Gems/SupportGemCastOnCrit",
-    "name": "Cast On Critical Strike Support",
+    "name": "치명타 시 시전 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCastOnKill": {
     "id": "Metadata/Items/Gems/SupportGemCastOnKill",
-    "name": "Cast on Melee Kill Support",
+    "name": "근접 처치 시 시전 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMultiTrap": {
     "id": "Metadata/Items/Gems/SupportGemMultiTrap",
-    "name": "Multiple Traps Support",
+    "name": "다중 덫 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAdditionalLevel": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalLevel",
-    "name": "Empower Support",
+    "name": "강화 보조",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemLightningTrap": {
     "id": "Metadata/Items/Gems/SkillGemLightningTrap",
-    "name": "Lightning Trap",
+    "name": "번개 덫",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalLightningTrap": {
     "id": "Metadata/Items/Gems/SkillGemVaalLightningTrap",
-    "name": "Vaal Lightning Trap",
+    "name": "바알 번개 덫",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSmokeMine": {
     "id": "Metadata/Items/Gems/SkillGemSmokeMine",
-    "name": "Smoke Mine",
+    "name": "연막 지뢰",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemEnduranceChargeOnMeleeStun": {
     "id": "Metadata/Items/Gems/SupportGemEnduranceChargeOnMeleeStun",
-    "name": "Endurance Charge on Melee Stun Support",
+    "name": "기절 시 인내 충전 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemAnimateArmour": {
     "id": "Metadata/Items/Gems/SkillGemAnimateArmour",
-    "name": "Animate Guardian",
+    "name": "수호자 기동",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemThrownShieldProjectile": {
     "id": "Metadata/Items/Gems/SkillGemThrownShieldProjectile",
-    "name": "Spectral Shield Throw",
+    "name": "환영 방패 투척",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemThrownWeapon": {
     "id": "Metadata/Items/Gems/SkillGemThrownWeapon",
-    "name": "Spectral Throw",
+    "name": "환영 무기 투척",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalThrownWeapon": {
     "id": "Metadata/Items/Gems/SkillGemVaalThrownWeapon",
-    "name": "Vaal Spectral Throw",
+    "name": "바알 환영 무기 투척",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemSlowerProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemSlowerProjectiles",
-    "name": "Slower Projectiles Support",
+    "name": "투사체 속도 감소 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemReducedDuration": {
     "id": "Metadata/Items/Gems/SupportGemReducedDuration",
-    "name": "Less Duration Support",
+    "name": "지속시간 감소 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCastOnDeath": {
     "id": "Metadata/Items/Gems/SupportGemCastOnDeath",
-    "name": "Cast on Death Support",
+    "name": "사망 시 시전 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCastOnDamageTaken": {
     "id": "Metadata/Items/Gems/SupportGemCastOnDamageTaken",
-    "name": "Cast when Damage Taken Support",
+    "name": "피격 시 시전 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCastOnStunned": {
     "id": "Metadata/Items/Gems/SupportGemCastOnStunned",
-    "name": "Cast when Stunned Support",
+    "name": "기절 시 시전 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemAnimateWeapon": {
     "id": "Metadata/Items/Gems/SkillGemAnimateWeapon",
-    "name": "Animate Weapon",
+    "name": "무기 기동",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemAdditionalQuality": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalQuality",
-    "name": "Enhance Support",
+    "name": "향상 보조",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemFireResistAura": {
     "id": "Metadata/Items/Gems/SkillGemFireResistAura",
-    "name": "Purity of Fire",
+    "name": "불의 순수함",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalFireResistAura": {
     "id": "Metadata/Items/Gems/SkillGemVaalFireResistAura",
-    "name": "Vaal Impurity of Fire",
+    "name": "바알 불의 부정함",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemColdResistAura": {
     "id": "Metadata/Items/Gems/SkillGemColdResistAura",
-    "name": "Purity of Ice",
+    "name": "얼음의 순수함",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalColdResistAura": {
     "id": "Metadata/Items/Gems/SkillGemVaalColdResistAura",
-    "name": "Vaal Impurity of Ice",
+    "name": "바알 얼음의 부정함",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLightningResistAura": {
     "id": "Metadata/Items/Gems/SkillGemLightningResistAura",
-    "name": "Purity of Lightning",
+    "name": "번개의 순수함",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalLightningResistAura": {
     "id": "Metadata/Items/Gems/SkillGemVaalLightningResistAura",
-    "name": "Vaal Impurity of Lightning",
+    "name": "바알 번개의 부정함",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemStormCall": {
     "id": "Metadata/Items/Gems/SkillGemStormCall",
-    "name": "Storm Call",
+    "name": "폭풍 부름",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalStormCall": {
     "id": "Metadata/Items/Gems/SkillGemVaalStormCall",
-    "name": "Vaal Storm Call",
+    "name": "바알 폭풍 부름",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFlameblast": {
     "id": "Metadata/Items/Gems/SkillGemFlameblast",
-    "name": "Flameblast",
+    "name": "화염파",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalFlameblast": {
     "id": "Metadata/Items/Gems/SkillGemVaalFlameblast",
-    "name": "Vaal Flameblast",
+    "name": "바알 화염파",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBarrage": {
     "id": "Metadata/Items/Gems/SkillGemBarrage",
-    "name": "Barrage",
+    "name": "연발 사격",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBallLightning": {
     "id": "Metadata/Items/Gems/SkillGemBallLightning",
-    "name": "Ball Lightning",
+    "name": "구형 번개",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemPhysicalProjectileAttackDamage": {
     "id": "Metadata/Items/Gems/SupportGemPhysicalProjectileAttackDamage",
-    "name": "Vicious Projectiles Support",
+    "name": "포악한 투사체 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemSummonRagingSpirit": {
     "id": "Metadata/Items/Gems/SkillGemSummonRagingSpirit",
-    "name": "Summon Raging Spirit",
+    "name": "격노의 유령 소환",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFlameWhip": {
     "id": "Metadata/Items/Gems/SkillGemFlameWhip",
-    "name": "Flame Surge",
+    "name": "화염 쇄도",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemAdditionalXP": {
     "id": "Metadata/Items/Gems/SupportGemAdditionalXP",
-    "name": "Enlighten Support",
+    "name": "계몽 보조",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemDesecrate": {
     "id": "Metadata/Items/Gems/SkillGemDesecrate",
-    "name": "Desecrate",
+    "name": "모독",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFleshOffering": {
     "id": "Metadata/Items/Gems/SkillGemFleshOffering",
-    "name": "Flesh Offering",
+    "name": "살점 공물",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBoneOffering": {
     "id": "Metadata/Items/Gems/SkillGemBoneOffering",
-    "name": "Bone Offering",
+    "name": "뼈 공물",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSpiritOffering": {
     "id": "Metadata/Items/Gems/SkillGemSpiritOffering",
-    "name": "Spirit Offering",
+    "name": "영혼 공물",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemGlacialCascade": {
     "id": "Metadata/Items/Gems/SkillGemGlacialCascade",
-    "name": "Glacial Cascade",
+    "name": "빙하 폭포",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemBlockChanceReduction": {
     "id": "Metadata/Items/Gems/SupportGemBlockChanceReduction",
-    "name": "Block Chance Reduction Support",
+    "name": "막기 확률 감소 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemMoltenStrike": {
     "id": "Metadata/Items/Gems/SkillGemMoltenStrike",
-    "name": "Molten Strike",
+    "name": "용암 타격",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemConvocation": {
     "id": "Metadata/Items/Gems/SkillGemConvocation",
-    "name": "Convocation",
+    "name": "소집",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemConvocationNew": {
     "id": "Metadata/Items/Gems/SkillGemConvocationNew",
-    "name": "Convocation",
+    "name": "소집",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFireNovaMine": {
     "id": "Metadata/Items/Gems/SkillGemFireNovaMine",
-    "name": "Pyroclast Mine",
+    "name": "화산탄 지뢰",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemTornadoShot": {
     "id": "Metadata/Items/Gems/SkillGemTornadoShot",
-    "name": "Tornado Shot",
+    "name": "회오리 사격",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemGenerosity": {
     "id": "Metadata/Items/Gems/SupportGemGenerosity",
-    "name": "Generosity Support",
+    "name": "관대함 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemHeraldOfAsh": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfAsh",
-    "name": "Herald of Ash",
+    "name": "재의 전령",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemHeraldOfIce": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfIce",
-    "name": "Herald of Ice",
+    "name": "얼음의 전령",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemHeraldOfThunder": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfThunder",
-    "name": "Herald of Thunder",
+    "name": "천둥의 전령",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemHeraldOfAgony": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfAgony",
-    "name": "Herald of Agony",
+    "name": "고통의 전령",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemHeraldOfPurity": {
     "id": "Metadata/Items/Gems/SkillGemHeraldOfPurity",
-    "name": "Herald of Purity",
+    "name": "순수의 전령",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPoachersMark": {
     "id": "Metadata/Items/Gems/SkillGemPoachersMark",
-    "name": "Poacher's Mark",
+    "name": "밀렵꾼의 징표",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLightningTendrils": {
     "id": "Metadata/Items/Gems/SkillGemLightningTendrils",
-    "name": "Lightning Tendrils",
+    "name": "덩굴 번개",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemKineticBlast": {
     "id": "Metadata/Items/Gems/SkillGemKineticBlast",
-    "name": "Kinetic Blast",
+    "name": "역학 폭발",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBlinkArrow": {
     "id": "Metadata/Items/Gems/SkillGemBlinkArrow",
-    "name": "Blink Arrow",
+    "name": "점멸 화살",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemMirrorArrow": {
     "id": "Metadata/Items/Gems/SkillGemMirrorArrow",
-    "name": "Mirror Arrow",
+    "name": "거울 화살",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRiposte": {
     "id": "Metadata/Items/Gems/SkillGemRiposte",
-    "name": "Glacial Shield Swipe",
+    "name": "빙하 방패 후려치기",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemReckoning": {
     "id": "Metadata/Items/Gems/SkillGemReckoning",
-    "name": "Swordstorm",
+    "name": "검의 폭풍",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEviscerate": {
     "id": "Metadata/Items/Gems/SkillGemEviscerate",
-    "name": "Eviscerate",
+    "name": "내장 적출",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemStaticStrike": {
     "id": "Metadata/Items/Gems/SkillGemStaticStrike",
-    "name": "Static Strike",
+    "name": "정전기 타격",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemPhysicalToLightning": {
     "id": "Metadata/Items/Gems/SupportGemPhysicalToLightning",
-    "name": "Physical to Lightning Support",
+    "name": "물리 번개 전환 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemVengeance": {
     "id": "Metadata/Items/Gems/SkillGemVengeance",
-    "name": "Crushing Fist",
+    "name": "타쇄하는 주먹",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDivineRetribution": {
     "id": "Metadata/Items/Gems/SkillGemDivineRetribution",
-    "name": "Divine Retribution",
+    "name": "신성한 응징",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVengefulCry": {
     "id": "Metadata/Items/Gems/SkillGemVengefulCry",
-    "name": "Vengeful Cry",
+    "name": "복수의 함성",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonChaosGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonChaosGolem",
-    "name": "Summon Chaos Golem",
+    "name": "카오스 골렘 소환",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonIceGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonIceGolem",
-    "name": "Summon Ice Golem",
+    "name": "얼음 골렘 소환",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonFlameGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonFlameGolem",
-    "name": "Summon Flame Golem",
+    "name": "화염 골렘 소환",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonLightningGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonLightningGolem",
-    "name": "Summon Lightning Golem",
+    "name": "번개 골렘 소환",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemBlasphemy": {
     "id": "Metadata/Items/Gems/SupportGemBlasphemy",
-    "name": "Blasphemy Support",
+    "name": "신성 모독 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemIceCrash": {
     "id": "Metadata/Items/Gems/SkillGemIceCrash",
-    "name": "Ice Crash",
+    "name": "얼음 충격",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRallyingCry": {
     "id": "Metadata/Items/Gems/SkillGemRallyingCry",
-    "name": "Rallying Cry",
+    "name": "집결의 함성",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemAbyssalCry": {
     "id": "Metadata/Items/Gems/SkillGemAbyssalCry",
-    "name": "Infernal Cry",
+    "name": "지옥불 함성",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFlameDash": {
     "id": "Metadata/Items/Gems/SkillGemFlameDash",
-    "name": "Flame Dash",
+    "name": "화염 질주",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVigilantStrike": {
     "id": "Metadata/Items/Gems/SkillGemVigilantStrike",
-    "name": "Vigilant Strike",
+    "name": "경계 타격",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemFortify": {
     "id": "Metadata/Items/Gems/SupportGemFortify",
-    "name": "Fortify Support",
+    "name": "방어 상승 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemFrostBlades": {
     "id": "Metadata/Items/Gems/SkillGemFrostBlades",
-    "name": "Frost Blades",
+    "name": "서리 칼날",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy": {
     "id": "Metadata/Items/Gems/SupportGemFrenzyChargeOnSlayingFrozenEnemy",
-    "name": "Ice Bite Support",
+    "name": "얼음 쐐기 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemDamageAgainstChilled": {
     "id": "Metadata/Items/Gems/SupportGemDamageAgainstChilled",
-    "name": "Hypothermia Support",
+    "name": "체온저하 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemOnslaughtOnSlayingShockedEnemy": {
     "id": "Metadata/Items/Gems/SupportGemOnslaughtOnSlayingShockedEnemy",
-    "name": "Innervate Support",
+    "name": "자극 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemMagmaOrb": {
     "id": "Metadata/Items/Gems/SkillGemMagmaOrb",
-    "name": "Rolling Magma",
+    "name": "몰려오는 마그마",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemTrapAndMineDamage": {
     "id": "Metadata/Items/Gems/SupportGemTrapAndMineDamage",
-    "name": "Trap and Mine Damage Support",
+    "name": "덫 및 지뢰 피해 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemWildStrike": {
     "id": "Metadata/Items/Gems/SkillGemWildStrike",
-    "name": "Wild Strike",
+    "name": "사나운 타격",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemIceTrap": {
     "id": "Metadata/Items/Gems/SkillGemIceTrap",
-    "name": "Ice Trap",
+    "name": "얼음 덫",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBlastRain": {
     "id": "Metadata/Items/Gems/SkillGemBlastRain",
-    "name": "Blast Rain",
+    "name": "폭발 화살비",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemShrapnelShot": {
     "id": "Metadata/Items/Gems/SkillGemShrapnelShot",
-    "name": "Galvanic Arrow",
+    "name": "충격 화살",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBladefall": {
     "id": "Metadata/Items/Gems/SkillGemBladefall",
-    "name": "Bladefall",
+    "name": "칼날비",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBladeVortex": {
     "id": "Metadata/Items/Gems/SkillGemBladeVortex",
-    "name": "Blade Vortex",
+    "name": "칼날 소용돌이",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalBladeVortex": {
     "id": "Metadata/Items/Gems/SkillGemVaalBladeVortex",
-    "name": "Vaal Blade Vortex",
+    "name": "바알 칼날 소용돌이",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFrostBomb": {
     "id": "Metadata/Items/Gems/SkillGemFrostBomb",
-    "name": "Frost Bomb",
+    "name": "서리 폭탄",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSiegeBallista": {
     "id": "Metadata/Items/Gems/SkillGemSiegeBallista",
-    "name": "Siege Ballista",
+    "name": "공성 쇠뇌",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemOrbOfStorms": {
     "id": "Metadata/Items/Gems/SkillGemOrbOfStorms",
-    "name": "Orb of Storms",
+    "name": "폭풍 보주",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonRockGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonRockGolem",
-    "name": "Summon Stone Golem",
+    "name": "돌 골렘 소환",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEarthquake": {
     "id": "Metadata/Items/Gems/SkillGemEarthquake",
-    "name": "Earthquake",
+    "name": "지진",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemPoison": {
     "id": "Metadata/Items/Gems/SupportGemPoison",
-    "name": "Critical Strike Affliction Support",
+    "name": "치명타 고통 격화 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemContagion": {
     "id": "Metadata/Items/Gems/SkillGemContagion",
-    "name": "Contagion",
+    "name": "전염",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemWither": {
     "id": "Metadata/Items/Gems/SkillGemWither",
-    "name": "Wither",
+    "name": "위축",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBlight": {
     "id": "Metadata/Items/Gems/SkillGemBlight",
-    "name": "Blight",
+    "name": "황폐",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEssenceDrain": {
     "id": "Metadata/Items/Gems/SkillGemEssenceDrain",
-    "name": "Essence Drain",
+    "name": "정수 흡수",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemVoidManipulation": {
     "id": "Metadata/Items/Gems/SupportGemVoidManipulation",
-    "name": "Void Manipulation Support",
+    "name": "공허 조작 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemControlledDestruction": {
     "id": "Metadata/Items/Gems/SupportGemControlledDestruction",
-    "name": "Controlled Destruction Support",
+    "name": "제어된 파괴 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemRapidDecay": {
     "id": "Metadata/Items/Gems/SupportGemRapidDecay",
-    "name": "Swift Affliction Support",
+    "name": "고통 격화 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemClusterTrap": {
     "id": "Metadata/Items/Gems/SupportGemClusterTrap",
-    "name": "Cluster Traps Support",
+    "name": "무리 덫 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemSunder": {
     "id": "Metadata/Items/Gems/SkillGemSunder",
-    "name": "Sunder",
+    "name": "산산조각",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFrostBolt": {
     "id": "Metadata/Items/Gems/SkillGemFrostBolt",
-    "name": "Frostbolt",
+    "name": "서리 구체",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFrostBoltNova": {
     "id": "Metadata/Items/Gems/SkillGemFrostBoltNova",
-    "name": "Vortex",
+    "name": "소용돌이",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemElementalFocus": {
     "id": "Metadata/Items/Gems/SupportGemElementalFocus",
-    "name": "Elemental Focus Support",
+    "name": "원소 집중 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMinefield": {
     "id": "Metadata/Items/Gems/SupportGemMinefield",
-    "name": "Minefield Support",
+    "name": "지뢰밭 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemTrapCooldown": {
     "id": "Metadata/Items/Gems/SupportGemTrapCooldown",
-    "name": "Advanced Traps Support",
+    "name": "향상된 덫 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemDarkPact": {
     "id": "Metadata/Items/Gems/SkillGemDarkPact",
-    "name": "Dark Pact",
+    "name": "어둠의 서약",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFireBeam": {
     "id": "Metadata/Items/Gems/SkillGemFireBeam",
-    "name": "Scorching Ray",
+    "name": "작열 광선",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemCastWhileChannelling": {
     "id": "Metadata/Items/Gems/SupportGemCastWhileChannelling",
-    "name": "Cast while Channelling Support",
+    "name": "집중 유지 중 시전 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemIgniteProliferation": {
     "id": "Metadata/Items/Gems/SupportGemIgniteProliferation",
-    "name": "Ignite Proliferation Support",
+    "name": "점화 확산 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemChanceToBleed": {
     "id": "Metadata/Items/Gems/SupportGemChanceToBleed",
-    "name": "Chance to Bleed Support",
+    "name": "출혈 확률 보조",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLesserPoison": {
     "id": "Metadata/Items/Gems/SupportGemLesserPoison",
-    "name": "Chance to Poison Support",
+    "name": "중독 확률 보조",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemDeadlyAilments": {
     "id": "Metadata/Items/Gems/SupportGemDeadlyAilments",
-    "name": "Deadly Ailments Support",
+    "name": "치명적인 상태 이상 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemDecay": {
     "id": "Metadata/Items/Gems/SupportGemDecay",
-    "name": "Decay Support",
+    "name": "부패 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemEfficacy": {
     "id": "Metadata/Items/Gems/SupportGemEfficacy",
-    "name": "Efficacy Support",
+    "name": "효력 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemVileToxins": {
     "id": "Metadata/Items/Gems/SupportGemVileToxins",
-    "name": "Vile Toxins Support",
+    "name": "끔찍한 독소 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMaim": {
     "id": "Metadata/Items/Gems/SupportGemMaim",
-    "name": "Maim Support",
+    "name": "힘줄 절단 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemImmolate": {
     "id": "Metadata/Items/Gems/SupportGemImmolate",
-    "name": "Immolate Support",
+    "name": "번제 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemUnboundAilments": {
     "id": "Metadata/Items/Gems/SupportGemUnboundAilments",
-    "name": "Unbound Ailments Support",
+    "name": "벌어지는 상처 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemBrutality": {
     "id": "Metadata/Items/Gems/SupportGemBrutality",
-    "name": "Brutality Support",
+    "name": "포악함 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemRuthless": {
     "id": "Metadata/Items/Gems/SupportGemRuthless",
-    "name": "Ruthless Support",
+    "name": "무자비 보조",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemOnslaught": {
     "id": "Metadata/Items/Gems/SupportGemOnslaught",
-    "name": "Momentum Support",
+    "name": "기세 보조",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemArcaneSurge": {
     "id": "Metadata/Items/Gems/SupportGemArcaneSurge",
-    "name": "Arcane Surge Support",
+    "name": "비전 쇄도 보조",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemCorpseEruption": {
     "id": "Metadata/Items/Gems/SkillGemCorpseEruption",
-    "name": "Cremation",
+    "name": "시체 소각",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemCorpseWarp": {
     "id": "Metadata/Items/Gems/SkillGemCorpseWarp",
-    "name": "Bodyswap",
+    "name": "신체 전환",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemTectonicSlam": {
     "id": "Metadata/Items/Gems/SkillGemTectonicSlam",
-    "name": "Tectonic Slam",
+    "name": "지층 강타",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemStormBarrier": {
     "id": "Metadata/Items/Gems/SupportGemStormBarrier",
-    "name": "Infused Channelling Support",
+    "name": "깊어지는 집중 유지 보조",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemParallelProjectiles": {
     "id": "Metadata/Items/Gems/SupportGemParallelProjectiles",
-    "name": "Volley Support",
+    "name": "사격 공세 보조",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSpellCascade": {
     "id": "Metadata/Items/Gems/SupportGemSpellCascade",
-    "name": "Spell Cascade Support",
+    "name": "연속 주문 보조",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSpiritStrike": {
     "id": "Metadata/Items/Gems/SupportGemSpiritStrike",
-    "name": "Ancestral Call Support",
+    "name": "선대의 부름 보조",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSummonGhostOnKill": {
     "id": "Metadata/Items/Gems/SupportGemSummonGhostOnKill",
-    "name": "Summon Phantasm Support",
+    "name": "환영 소환 보조",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMirageArcher": {
     "id": "Metadata/Items/Gems/SupportGemMirageArcher",
-    "name": "Mirage Archer Support",
+    "name": "신기루 궁수 보조",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemNewVulnerability": {
     "id": "Metadata/Items/Gems/SkillGemNewVulnerability",
-    "name": "Vulnerability",
+    "name": "취약성",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemShrapnelTrap": {
     "id": "Metadata/Items/Gems/SkillGemShrapnelTrap",
-    "name": "Explosive Trap",
+    "name": "폭발 덫",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemIceSiphonTrap": {
     "id": "Metadata/Items/Gems/SkillGemIceSiphonTrap",
-    "name": "Siphoning Trap",
+    "name": "착취 덫",
     "primary_attribute": "intelligence",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFlamethrowerTrap": {
     "id": "Metadata/Items/Gems/SkillGemFlamethrowerTrap",
-    "name": "Flamethrower Trap",
+    "name": "화염방사기 덫",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLightningTowerTrap": {
     "id": "Metadata/Items/Gems/SkillGemLightningTowerTrap",
-    "name": "Lightning Spire Trap",
+    "name": "번개 첨탑 덫",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPhysCascadeTrap": {
     "id": "Metadata/Items/Gems/SkillGemPhysCascadeTrap",
-    "name": "Seismic Trap",
+    "name": "지진 덫",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalEarthquake": {
     "id": "Metadata/Items/Gems/SkillGemVaalEarthquake",
-    "name": "Vaal Earthquake",
+    "name": "바알 지진",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalBlight": {
     "id": "Metadata/Items/Gems/SkillGemVaalBlight",
-    "name": "Vaal Blight",
+    "name": "바알 황폐",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemFrenzyPowerOnTrapTrigger": {
     "id": "Metadata/Items/Gems/SupportGemFrenzyPowerOnTrapTrigger",
-    "name": "Charged Traps Support",
+    "name": "충전된 덫 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemChargedMines": {
     "id": "Metadata/Items/Gems/SupportGemChargedMines",
-    "name": "Charged Mines Support",
+    "name": "충전된 지뢰 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemConsecratedPath": {
     "id": "Metadata/Items/Gems/SkillGemConsecratedPath",
-    "name": "Consecrated Path",
+    "name": "축성의 진격",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSmite": {
     "id": "Metadata/Items/Gems/SkillGemSmite",
-    "name": "Smite",
+    "name": "징벌",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemScourgeArrow": {
     "id": "Metadata/Items/Gems/SkillGemScourgeArrow",
-    "name": "Scourge Arrow",
+    "name": "재앙의 화살",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemToxicRain": {
     "id": "Metadata/Items/Gems/SkillGemToxicRain",
-    "name": "Toxic Rain",
+    "name": "맹독성 비",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonRelic": {
     "id": "Metadata/Items/Gems/SkillGemSummonRelic",
-    "name": "Summon Holy Relic",
+    "name": "신성한 유물 소환",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemChaosAttacks": {
     "id": "Metadata/Items/Gems/SupportGemChaosAttacks",
-    "name": "Withering Touch Support",
+    "name": "위축의 손길 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemBonechill": {
     "id": "Metadata/Items/Gems/SupportGemBonechill",
-    "name": "Bonechill Support",
+    "name": "사무치는 한기 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemWinterOrb": {
     "id": "Metadata/Items/Gems/SkillGemWinterOrb",
-    "name": "Winter Orb",
+    "name": "겨울 보주",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRendingSteel": {
     "id": "Metadata/Items/Gems/SkillGemRendingSteel",
-    "name": "Rending Steel",
+    "name": "강철 분리",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemLancingSteel": {
     "id": "Metadata/Items/Gems/SkillGemLancingSteel",
-    "name": "Lancing Steel",
+    "name": "강철 관통",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemStormBrand": {
     "id": "Metadata/Items/Gems/SkillGemStormBrand",
-    "name": "Storm Brand",
+    "name": "폭풍의 낙인",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemWarBanner": {
     "id": "Metadata/Items/Gems/SkillGemWarBanner",
-    "name": "War Banner",
+    "name": "전쟁 깃발",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDreadBanner": {
     "id": "Metadata/Items/Gems/SkillGemDreadBanner",
-    "name": "Dread Banner",
+    "name": "공포의 깃발",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemShatteringSteel": {
     "id": "Metadata/Items/Gems/SkillGemShatteringSteel",
-    "name": "Shattering Steel",
+    "name": "강철 파편",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemMultiTotem": {
     "id": "Metadata/Items/Gems/SupportGemMultiTotem",
-    "name": "Multiple Totems Support",
+    "name": "다중 토템 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemArmageddonBrand": {
     "id": "Metadata/Items/Gems/SkillGemArmageddonBrand",
-    "name": "Armageddon Brand",
+    "name": "종말의 낙인",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRecallBrands": {
     "id": "Metadata/Items/Gems/SkillGemRecallBrands",
-    "name": "Brand Recall",
+    "name": "낙인 소환",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSanctify": {
     "id": "Metadata/Items/Gems/SkillGemSanctify",
-    "name": "Purifying Flame",
+    "name": "정화의 불길",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSoulrend": {
     "id": "Metadata/Items/Gems/SkillGemSoulrend",
-    "name": "Soulrend",
+    "name": "영혼 분리",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDarkRitual": {
     "id": "Metadata/Items/Gems/SkillGemDarkRitual",
-    "name": "Bane",
+    "name": "파멸",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemEnergyShieldLeech": {
     "id": "Metadata/Items/Gems/SupportGemEnergyShieldLeech",
-    "name": "Energy Leech Support",
+    "name": "에너지 흡수 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemPurge": {
     "id": "Metadata/Items/Gems/SkillGemPurge",
-    "name": "Wave of Conviction",
+    "name": "신념의 파도",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSpellDamageAura": {
     "id": "Metadata/Items/Gems/SkillGemSpellDamageAura",
-    "name": "Zealotry",
+    "name": "열광",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDivineTempest": {
     "id": "Metadata/Items/Gems/SkillGemDivineTempest",
-    "name": "Divine Ire",
+    "name": "신성한 진노",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDamageOverTimeAura": {
     "id": "Metadata/Items/Gems/SkillGemDamageOverTimeAura",
-    "name": "Malevolence",
+    "name": "악의",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemHandcastSpellBoost": {
     "id": "Metadata/Items/Gems/SupportGemHandcastSpellBoost",
-    "name": "Intensify Support",
+    "name": "격화 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemHandcastAnticipation": {
     "id": "Metadata/Items/Gems/SupportGemHandcastAnticipation",
-    "name": "Unleash Support",
+    "name": "촉발 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemSteelskin": {
     "id": "Metadata/Items/Gems/SkillGemSteelskin",
-    "name": "Steelskin",
+    "name": "강철피부",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDash": {
     "id": "Metadata/Items/Gems/SkillGemDash",
-    "name": "Dash",
+    "name": "질주",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBladestorm": {
     "id": "Metadata/Items/Gems/SkillGemBladestorm",
-    "name": "Bladestorm",
+    "name": "칼날 폭풍",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBloodAndSand": {
     "id": "Metadata/Items/Gems/SkillGemBloodAndSand",
-    "name": "Blood and Sand",
+    "name": "피와 모래",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBerserk": {
     "id": "Metadata/Items/Gems/SkillGemBerserk",
-    "name": "Berserk",
+    "name": "광폭",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPerforate": {
     "id": "Metadata/Items/Gems/SkillGemPerforate",
-    "name": "Perforate",
+    "name": "천공",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemChainHook": {
     "id": "Metadata/Items/Gems/SkillGemChainHook",
-    "name": "Chain Hook",
+    "name": "사슬 갈고리",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemCloseCombat": {
     "id": "Metadata/Items/Gems/SupportGemCloseCombat",
-    "name": "Close Combat Support",
+    "name": "근접 전투 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemShockwave": {
     "id": "Metadata/Items/Gems/SupportGemShockwave",
-    "name": "Shockwave Support",
+    "name": "충격파 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemFrostblink": {
     "id": "Metadata/Items/Gems/SkillGemFrostblink",
-    "name": "Frostblink",
+    "name": "서리점멸",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPrecision": {
     "id": "Metadata/Items/Gems/SkillGemPrecision",
-    "name": "Precision",
+    "name": "정밀함",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFleshAndStone": {
     "id": "Metadata/Items/Gems/SkillGemFleshAndStone",
-    "name": "Flesh and Stone",
+    "name": "육체와 돌",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemImpale": {
     "id": "Metadata/Items/Gems/SupportGemImpale",
-    "name": "Impale Support",
+    "name": "꿰뚫기 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemPride": {
     "id": "Metadata/Items/Gems/SkillGemPride",
-    "name": "Pride",
+    "name": "자부심",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemPulverise": {
     "id": "Metadata/Items/Gems/SupportGemPulverise",
-    "name": "Pulverise Support",
+    "name": "분쇄 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemRage": {
     "id": "Metadata/Items/Gems/SupportGemRage",
-    "name": "Rage Support",
+    "name": "격노 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemCobraLash": {
     "id": "Metadata/Items/Gems/SkillGemCobraLash",
-    "name": "Cobra Lash",
+    "name": "코브라 채찍",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonCarrionGolem": {
     "id": "Metadata/Items/Gems/SkillGemSummonCarrionGolem",
-    "name": "Summon Carrion Golem",
+    "name": "부패 골렘 소환",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemWitheringStep": {
     "id": "Metadata/Items/Gems/SkillGemWitheringStep",
-    "name": "Withering Step",
+    "name": "고사시키는 걸음",
     "primary_attribute": "dexterity",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPlagueBearer": {
     "id": "Metadata/Items/Gems/SkillGemPlagueBearer",
-    "name": "Plague Bearer",
+    "name": "독성 운반자",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemFeedingFrenzy": {
     "id": "Metadata/Items/Gems/SupportGemFeedingFrenzy",
-    "name": "Feeding Frenzy Support",
+    "name": "격분 주입 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemDeathmark": {
     "id": "Metadata/Items/Gems/SupportGemDeathmark",
-    "name": "Predator Support",
+    "name": "포식자 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemNightblade": {
     "id": "Metadata/Items/Gems/SupportGemNightblade",
-    "name": "Nightblade Support",
+    "name": "밤의 칼날 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMeatShield": {
     "id": "Metadata/Items/Gems/SupportGemMeatShield",
-    "name": "Meat Shield Support",
+    "name": "육탄 방어 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemStormblastMine": {
     "id": "Metadata/Items/Gems/SkillGemStormblastMine",
-    "name": "Stormblast Mine",
+    "name": "태풍 파열 지뢰",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSummonSkitterbots": {
     "id": "Metadata/Items/Gems/SkillGemSummonSkitterbots",
-    "name": "Summon Skitterbots",
+    "name": "원격 기폭 장치 소환",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemHighImpactMineSupport": {
     "id": "Metadata/Items/Gems/SupportGemHighImpactMineSupport",
-    "name": "High-Impact Mine Support",
+    "name": "고충격 지뢰 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemInfernalLegion": {
     "id": "Metadata/Items/Gems/SupportGemInfernalLegion",
-    "name": "Infernal Legion Support",
+    "name": "지옥불 군단 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemPestilentStrike": {
     "id": "Metadata/Items/Gems/SkillGemPestilentStrike",
-    "name": "Pestilent Strike",
+    "name": "전염성 일격",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVenomGyre": {
     "id": "Metadata/Items/Gems/SkillGemVenomGyre",
-    "name": "Venom Gyre",
+    "name": "독액 선회",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemSwiftAssembly": {
     "id": "Metadata/Items/Gems/SupportGemSwiftAssembly",
-    "name": "Swift Assembly Support",
+    "name": "재빠른 조립 보조",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemShrapnelBallista": {
     "id": "Metadata/Items/Gems/SkillGemShrapnelBallista",
-    "name": "Shrapnel Ballista",
+    "name": "파편 쇠뇌",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemArrowNova": {
     "id": "Metadata/Items/Gems/SupportGemArrowNova",
-    "name": "Arrow Nova Support",
+    "name": "화살 산개 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemBarrage": {
     "id": "Metadata/Items/Gems/SupportGemBarrage",
-    "name": "Barrage Support",
+    "name": "연발 사격 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemEnsnaringArrow": {
     "id": "Metadata/Items/Gems/SkillGemEnsnaringArrow",
-    "name": "Ensnaring Arrow",
+    "name": "올가미 화살",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemArtilleryBallista": {
     "id": "Metadata/Items/Gems/SkillGemArtilleryBallista",
-    "name": "Artillery Ballista",
+    "name": "포대 쇠뇌",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemGreaterVolley": {
     "id": "Metadata/Items/Gems/SupportGemGreaterVolley",
-    "name": "Greater Volley Support",
+    "name": "상위 사격 공세 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAddedFireDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemAddedFireDamagePlus",
-    "name": "Awakened Added Fire Damage Support",
+    "name": "각성한 화염 피해 추가 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAncestralCallPlus": {
     "id": "Metadata/Items/Gems/SupportGemAncestralCallPlus",
-    "name": "Awakened Ancestral Call Support",
+    "name": "각성한 선대의 부름 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemBrutalityPlus": {
     "id": "Metadata/Items/Gems/SupportGemBrutalityPlus",
-    "name": "Awakened Brutality Support",
+    "name": "각성한 포악함 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemBurningDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemBurningDamagePlus",
-    "name": "Awakened Burning Damage Support",
+    "name": "각성한 화상 피해 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemWeaponElementalDamagePlus",
-    "name": "Awakened Elemental Damage with Attacks Support",
+    "name": "각성한 공격 시 원소 피해 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFirePenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemFirePenetrationPlus",
-    "name": "Awakened Fire Penetration Support",
+    "name": "각성한 화염 관통 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemGenerosityPlus": {
     "id": "Metadata/Items/Gems/SupportGemGenerosityPlus",
-    "name": "Awakened Generosity Support",
+    "name": "각성한 관대함 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMeleePhysicalDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemMeleePhysicalDamagePlus",
-    "name": "Awakened Melee Physical Damage Support",
+    "name": "각성한 근접 물리 피해 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMeleeSplashPlus": {
     "id": "Metadata/Items/Gems/SupportGemMeleeSplashPlus",
-    "name": "Awakened Melee Splash Support",
+    "name": "각성한 근접 범위 피해 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMultistrikePlus": {
     "id": "Metadata/Items/Gems/SupportGemMultistrikePlus",
-    "name": "Awakened Multistrike Support",
+    "name": "각성한 연속타격 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAddedColdDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemAddedColdDamagePlus",
-    "name": "Awakened Added Cold Damage Support",
+    "name": "각성한 냉기 피해 추가 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemArrowNovaPlus": {
     "id": "Metadata/Items/Gems/SupportGemArrowNovaPlus",
-    "name": "Awakened Arrow Nova Support",
+    "name": "각성한 화살 산개 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCastOnCritPlus": {
     "id": "Metadata/Items/Gems/SupportGemCastOnCritPlus",
-    "name": "Awakened Cast On Critical Strike Support",
+    "name": "각성한 치명타 시 시전 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemChainPlus": {
     "id": "Metadata/Items/Gems/SupportGemChainPlus",
-    "name": "Awakened Chain Support",
+    "name": "각성한 연쇄 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemColdPenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemColdPenetrationPlus",
-    "name": "Awakened Cold Penetration Support",
+    "name": "각성한 냉기 관통 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemDeadlyAilmentsPlus": {
     "id": "Metadata/Items/Gems/SupportGemDeadlyAilmentsPlus",
-    "name": "Awakened Deadly Ailments Support",
+    "name": "각성한 치명적인 상태 이상 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemForkPlus": {
     "id": "Metadata/Items/Gems/SupportGemForkPlus",
-    "name": "Awakened Fork Support",
+    "name": "각성한 갈래 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemGreaterMultipleProjectilesPlus": {
     "id": "Metadata/Items/Gems/SupportGemGreaterMultipleProjectilesPlus",
-    "name": "Awakened Greater Multiple Projectiles Support",
+    "name": "각성한 상위 다중 투사체 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSwiftAfflictionPlus": {
     "id": "Metadata/Items/Gems/SupportGemSwiftAfflictionPlus",
-    "name": "Awakened Swift Affliction Support",
+    "name": "각성한 고통 격화 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemVoidManipulationPlus": {
     "id": "Metadata/Items/Gems/SupportGemVoidManipulationPlus",
-    "name": "Awakened Void Manipulation Support",
+    "name": "각성한 공허 조작 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemViciousProjectilesPlus": {
     "id": "Metadata/Items/Gems/SupportGemViciousProjectilesPlus",
-    "name": "Awakened Vicious Projectiles Support",
+    "name": "각성한 포악한 투사체 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAddedChaosDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemAddedChaosDamagePlus",
-    "name": "Awakened Added Chaos Damage Support",
+    "name": "각성한 카오스 피해 추가 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemAddedLightningDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemAddedLightningDamagePlus",
-    "name": "Awakened Added Lightning Damage Support",
+    "name": "각성한 번개 피해 추가 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemBlasphemyPlus": {
     "id": "Metadata/Items/Gems/SupportGemBlasphemyPlus",
-    "name": "Awakened Blasphemy Support",
+    "name": "각성한 신성 모독 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCastWhileChannellingPlus": {
     "id": "Metadata/Items/Gems/SupportGemCastWhileChannellingPlus",
-    "name": "Awakened Cast While Channelling Support",
+    "name": "각성한 집중 유지 중 시전 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemControlledDestructionPlus": {
     "id": "Metadata/Items/Gems/SupportGemControlledDestructionPlus",
-    "name": "Awakened Controlled Destruction Support",
+    "name": "각성한 제어된 파괴 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCurseOnHitPlus": {
     "id": "Metadata/Items/Gems/SupportGemCurseOnHitPlus",
-    "name": "Awakened Hextouch Support",
+    "name": "각성한 사술 손길 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemElementalFocusPlus": {
     "id": "Metadata/Items/Gems/SupportGemElementalFocusPlus",
-    "name": "Awakened Elemental Focus Support",
+    "name": "각성한 원소 집중 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffectPlus": {
     "id": "Metadata/Items/Gems/SupportGemIncreasedAreaOfEffectPlus",
-    "name": "Awakened Increased Area of Effect Support",
+    "name": "각성한 효과 범위 증가 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLightningPenetrationPlus": {
     "id": "Metadata/Items/Gems/SupportGemLightningPenetrationPlus",
-    "name": "Awakened Lightning Penetration Support",
+    "name": "각성한 번개 관통 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMinionDamagePlus": {
     "id": "Metadata/Items/Gems/SupportGemMinionDamagePlus",
-    "name": "Awakened Minion Damage Support",
+    "name": "각성한 소환수 피해 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSpellCascadePlus": {
     "id": "Metadata/Items/Gems/SupportGemSpellCascadePlus",
-    "name": "Awakened Spell Cascade Support",
+    "name": "각성한 연속 주문 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSpellEchoPlus": {
     "id": "Metadata/Items/Gems/SupportGemSpellEchoPlus",
-    "name": "Awakened Spell Echo Support",
+    "name": "각성한 주문 메아리 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemUnboundAilmentsPlus": {
     "id": "Metadata/Items/Gems/SupportGemUnboundAilmentsPlus",
-    "name": "Awakened Unbound Ailments Support",
+    "name": "각성한 벌어지는 상처 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemUnleashPlus": {
     "id": "Metadata/Items/Gems/SupportGemUnleashPlus",
-    "name": "Awakened Unleash Support",
+    "name": "각성한 촉발 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemEmpowerPlus": {
     "id": "Metadata/Items/Gems/SupportGemEmpowerPlus",
-    "name": "Awakened Empower Support",
+    "name": "각성한 강화 보조",
     "primary_attribute": "strength",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemEnlightenPlus": {
     "id": "Metadata/Items/Gems/SupportGemEnlightenPlus",
-    "name": "Awakened Enlighten Support",
+    "name": "각성한 계몽 보조",
     "primary_attribute": "intelligence",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemEnhancePlus": {
     "id": "Metadata/Items/Gems/SupportGemEnhancePlus",
-    "name": "Awakened Enhance Support",
+    "name": "각성한 향상 보조",
     "primary_attribute": "dexterity",
     "required_level": 72,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemArcaneCloak": {
     "id": "Metadata/Items/Gems/SkillGemArcaneCloak",
-    "name": "Arcane Cloak",
+    "name": "비전의 망토",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemStormBind": {
     "id": "Metadata/Items/Gems/SkillGemStormBind",
-    "name": "Stormbind",
+    "name": "폭풍 연대",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemKineticBolt": {
     "id": "Metadata/Items/Gems/SkillGemKineticBolt",
-    "name": "Kinetic Bolt",
+    "name": "역학 투사체",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBladeBlast": {
     "id": "Metadata/Items/Gems/SkillGemBladeBlast",
-    "name": "Blade Blast",
+    "name": "칼날 폭격",
     "primary_attribute": "dexterity",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSpellslinger": {
     "id": "Metadata/Items/Gems/SkillGemSpellslinger",
-    "name": "Spellslinger",
+    "name": "주문투척",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemArchmage": {
     "id": "Metadata/Items/Gems/SupportGemArchmage",
-    "name": "Archmage Support",
+    "name": "대마법사 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSecondWind": {
     "id": "Metadata/Items/Gems/SupportGemSecondWind",
-    "name": "Second Wind Support",
+    "name": "새로운 활력 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemArcanistBrand": {
     "id": "Metadata/Items/Gems/SkillGemArcanistBrand",
-    "name": "Arcanist Brand",
+    "name": "신비학자 낙인",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemIntimidatingCry": {
     "id": "Metadata/Items/Gems/SkillGemIntimidatingCry",
-    "name": "Intimidating Cry",
+    "name": "위협의 함성",
     "primary_attribute": "strength",
     "required_level": 10,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSeismicCry": {
     "id": "Metadata/Items/Gems/SkillGemSeismicCry",
-    "name": "Seismic Cry",
+    "name": "지진 함성",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemAncestralCry": {
     "id": "Metadata/Items/Gems/SkillGemAncestralCry",
-    "name": "Ancestral Cry",
+    "name": "선대의 함성",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPenanceBrand": {
     "id": "Metadata/Items/Gems/SkillGemPenanceBrand",
-    "name": "Penance Brand",
+    "name": "속죄의 낙인",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemWintertideBrand": {
     "id": "Metadata/Items/Gems/SkillGemWintertideBrand",
-    "name": "Wintertide Brand",
+    "name": "겨울의 낙인",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEarthshatter": {
     "id": "Metadata/Items/Gems/SkillGemEarthshatter",
-    "name": "Earthshatter",
+    "name": "지면 분쇄",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemGeneralsCry": {
     "id": "Metadata/Items/Gems/SkillGemGeneralsCry",
-    "name": "General's Cry",
+    "name": "장군의 함성",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemFistOfWar": {
     "id": "Metadata/Items/Gems/SupportGemFistOfWar",
-    "name": "Fist of War Support",
+    "name": "전쟁의 주먹 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSwiftbrand": {
     "id": "Metadata/Items/Gems/SupportGemSwiftbrand",
-    "name": "Swiftbrand Support",
+    "name": "재빠른 낙인 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemUrgentOrders": {
     "id": "Metadata/Items/Gems/SupportGemUrgentOrders",
-    "name": "Urgent Orders Support",
+    "name": "긴급 명령 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemBlazingSalvo": {
     "id": "Metadata/Items/Gems/SkillGemBlazingSalvo",
-    "name": "Blazing Salvo",
+    "name": "맹렬한 포격",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVoidSphere": {
     "id": "Metadata/Items/Gems/SkillGemVoidSphere",
-    "name": "Void Sphere",
+    "name": "공허 구체",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemCracklingLance": {
     "id": "Metadata/Items/Gems/SkillGemCracklingLance",
-    "name": "Crackling Lance",
+    "name": "치직대는 창",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFrostShield": {
     "id": "Metadata/Items/Gems/SkillGemFrostShield",
-    "name": "Frost Shield",
+    "name": "서리 방패",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSplittingSteel": {
     "id": "Metadata/Items/Gems/SkillGemSplittingSteel",
-    "name": "Splitting Steel",
+    "name": "강철 분할",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSigilOfPower": {
     "id": "Metadata/Items/Gems/SkillGemSigilOfPower",
-    "name": "Sigil of Power",
+    "name": "힘의 부적",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFlameWall": {
     "id": "Metadata/Items/Gems/SkillGemFlameWall",
-    "name": "Flame Wall",
+    "name": "화염 벽",
     "primary_attribute": "intelligence",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemImpendingDoom": {
     "id": "Metadata/Items/Gems/SupportGemImpendingDoom",
-    "name": "Impending Doom Support",
+    "name": "임박한 멸망 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemHexblast": {
     "id": "Metadata/Items/Gems/SkillGemHexblast",
-    "name": "Hexblast",
+    "name": "사술 폭발",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemPinpoint": {
     "id": "Metadata/Items/Gems/SupportGemPinpoint",
-    "name": "Pinpoint Support",
+    "name": "핵심 조준 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemHydrosphere": {
     "id": "Metadata/Items/Gems/SkillGemHydrosphere",
-    "name": "Hydrosphere",
+    "name": "물의 구체",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemTrinity": {
     "id": "Metadata/Items/Gems/SupportGemTrinity",
-    "name": "Trinity Support",
+    "name": "삼위일체 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemExsanguinate": {
     "id": "Metadata/Items/Gems/SkillGemExsanguinate",
-    "name": "Exsanguinate",
+    "name": "방혈",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemCorruptingFever": {
     "id": "Metadata/Items/Gems/SkillGemCorruptingFever",
-    "name": "Corrupting Fever",
+    "name": "타락한 열병",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemBloodthirst": {
     "id": "Metadata/Items/Gems/SupportGemBloodthirst",
-    "name": "Bloodthirst Support",
+    "name": "피의 갈증 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemBloodreap": {
     "id": "Metadata/Items/Gems/SkillGemBloodreap",
-    "name": "Reap",
+    "name": "낫질",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPetrifiedBlood": {
     "id": "Metadata/Items/Gems/SkillGemPetrifiedBlood",
-    "name": "Petrified Blood",
+    "name": "피 석화",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemCruelty": {
     "id": "Metadata/Items/Gems/SupportGemCruelty",
-    "name": "Cruelty Support",
+    "name": "잔혹 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLifetap": {
     "id": "Metadata/Items/Gems/SupportGemLifetap",
-    "name": "Lifetap Support",
+    "name": "생명력 전환 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemDefianceBanner": {
     "id": "Metadata/Items/Gems/SkillGemDefianceBanner",
-    "name": "Defiance Banner",
+    "name": "저항의 깃발",
     "primary_attribute": "strength",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVoltaxicBurst": {
     "id": "Metadata/Items/Gems/SkillGemVoltaxicBurst",
-    "name": "Voltaxic Burst",
+    "name": "전도성 격발",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemRageVortex": {
     "id": "Metadata/Items/Gems/SkillGemRageVortex",
-    "name": "Rage Vortex",
+    "name": "격노 소용돌이",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSpectralHelix": {
     "id": "Metadata/Items/Gems/SkillGemSpectralHelix",
-    "name": "Spectral Helix",
+    "name": "영체 나선",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBattlemagesCry": {
     "id": "Metadata/Items/Gems/SkillGemBattlemagesCry",
-    "name": "Battlemage's Cry",
+    "name": "전투마법사의 함성",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemAbsolution": {
     "id": "Metadata/Items/Gems/SkillGemAbsolution",
-    "name": "Absolution",
+    "name": "면죄",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemForbiddenRite": {
     "id": "Metadata/Items/Gems/SkillGemForbiddenRite",
-    "name": "Forbidden Rite",
+    "name": "금단의 의식",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemAmbush": {
     "id": "Metadata/Items/Gems/SkillGemAmbush",
-    "name": "Ambush",
+    "name": "매복",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemManabond": {
     "id": "Metadata/Items/Gems/SkillGemManabond",
-    "name": "Manabond",
+    "name": "마나 결속",
     "primary_attribute": "intelligence",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemBladeTrap": {
     "id": "Metadata/Items/Gems/SkillGemBladeTrap",
-    "name": "Blade Trap",
+    "name": "칼날 덫",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemStormRain": {
     "id": "Metadata/Items/Gems/SkillGemStormRain",
-    "name": "Storm Rain",
+    "name": "폭풍우",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemShieldCrush": {
     "id": "Metadata/Items/Gems/SkillGemShieldCrush",
-    "name": "Shield Crush",
+    "name": "방패 타쇄",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemFocusedBallista": {
     "id": "Metadata/Items/Gems/SupportGemFocusedBallista",
-    "name": "Focused Ballista Support",
+    "name": "쇠뇌 집중 사격 보조",
     "primary_attribute": "dexterity",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemSummonReaper": {
     "id": "Metadata/Items/Gems/SkillGemSummonReaper",
-    "name": "Summon Reaper",
+    "name": "수확자 소환",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemBehead": {
     "id": "Metadata/Items/Gems/SupportGemBehead",
-    "name": "Behead Support",
+    "name": "참수 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemBoneshatter": {
     "id": "Metadata/Items/Gems/SkillGemBoneshatter",
-    "name": "Boneshatter",
+    "name": "뼈 박살",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemExplosiveConcoction": {
     "id": "Metadata/Items/Gems/SkillGemExplosiveConcoction",
-    "name": "Explosive Concoction",
+    "name": "폭발성 혼합물",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEyeOfWinter": {
     "id": "Metadata/Items/Gems/SkillGemEyeOfWinter",
-    "name": "Eye of Winter",
+    "name": "겨울의 눈",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemPoisonousConcoction": {
     "id": "Metadata/Items/Gems/SkillGemPoisonousConcoction",
-    "name": "Poisonous Concoction",
+    "name": "독성 혼합물",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemTemporalRift": {
     "id": "Metadata/Items/Gems/SkillGemTemporalRift",
-    "name": "Temporal Rift",
+    "name": "시간의 균열",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemTornado": {
     "id": "Metadata/Items/Gems/SkillGemTornado",
-    "name": "Tornado",
+    "name": "회오리",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemEnergyBlade": {
     "id": "Metadata/Items/Gems/SkillGemEnergyBlade",
-    "name": "Energy Blade",
+    "name": "에너지 칼날",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemSoulLink": {
     "id": "Metadata/Items/Gems/SkillGemSoulLink",
-    "name": "Soul Link",
+    "name": "영혼의 연결",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFlameLink": {
     "id": "Metadata/Items/Gems/SkillGemFlameLink",
-    "name": "Flame Link",
+    "name": "화염의 연결",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVampiricLink": {
     "id": "Metadata/Items/Gems/SkillGemVampiricLink",
-    "name": "Vampiric Link",
+    "name": "흡혈의 연결",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemProtectiveLink": {
     "id": "Metadata/Items/Gems/SkillGemProtectiveLink",
-    "name": "Protective Link",
+    "name": "보호의 연결",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemIntuitiveLink": {
     "id": "Metadata/Items/Gems/SkillGemIntuitiveLink",
-    "name": "Intuitive Link",
+    "name": "직관의 연결",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemDestructiveLink": {
     "id": "Metadata/Items/Gems/SkillGemDestructiveLink",
-    "name": "Destructive Link",
+    "name": "파괴의 연결",
     "primary_attribute": "intelligence",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemDivineBlessing": {
     "id": "Metadata/Items/Gems/SupportGemDivineBlessing",
-    "name": "Divine Blessing Support",
+    "name": "신성한 축복 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemMarkOnHit": {
     "id": "Metadata/Items/Gems/SupportGemMarkOnHit",
-    "name": "Mark On Hit Support",
+    "name": "명중 시 징표 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemEternalBlessing": {
     "id": "Metadata/Items/Gems/SupportGemEternalBlessing",
-    "name": "Eternal Blessing Support",
+    "name": "영원한 축복 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemOvercharge": {
     "id": "Metadata/Items/Gems/SupportGemOvercharge",
-    "name": "Overcharge Support",
+    "name": "과충전 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemLightningConduit": {
     "id": "Metadata/Items/Gems/SkillGemLightningConduit",
-    "name": "Lightning Conduit",
+    "name": "번개 도관",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemGalvanicField": {
     "id": "Metadata/Items/Gems/SkillGemGalvanicField",
-    "name": "Galvanic Field",
+    "name": "충격장",
     "primary_attribute": "intelligence",
     "required_level": 16,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemAlchemistsMark": {
     "id": "Metadata/Items/Gems/SkillGemAlchemistsMark",
-    "name": "Alchemist's Mark",
+    "name": "연금술사의 징표",
     "primary_attribute": "dexterity",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVolcanicFissure": {
     "id": "Metadata/Items/Gems/SkillGemVolcanicFissure",
-    "name": "Volcanic Fissure",
+    "name": "화산 균열",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalVolcanicFissure": {
     "id": "Metadata/Items/Gems/SkillGemVaalVolcanicFissure",
-    "name": "Vaal Volcanic Fissure",
+    "name": "바알 화산 균열",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemFrozenLegion": {
     "id": "Metadata/Items/Gems/SkillGemFrozenLegion",
-    "name": "Frozen Legion",
+    "name": "얼어붙은 군단",
     "primary_attribute": "strength",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalCleave": {
     "id": "Metadata/Items/Gems/SkillGemVaalCleave",
-    "name": "Vaal Cleave",
+    "name": "바알 회전베기",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalCausticArrow": {
     "id": "Metadata/Items/Gems/SkillGemVaalCausticArrow",
-    "name": "Vaal Caustic Arrow",
+    "name": "바알 부식성 화살",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalMoltenStrike": {
     "id": "Metadata/Items/Gems/SkillGemVaalMoltenStrike",
-    "name": "Vaal Molten Strike",
+    "name": "바알 용암 타격",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemCursedGround": {
     "id": "Metadata/Items/Gems/SupportGemCursedGround",
-    "name": "Cursed Ground Support",
+    "name": "저주받은 지대 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemHexBloom": {
     "id": "Metadata/Items/Gems/SupportGemHexBloom",
-    "name": "Hex Bloom Support",
+    "name": "사술의 꽃 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemVaalVenomGyre": {
     "id": "Metadata/Items/Gems/SkillGemVaalVenomGyre",
-    "name": "Vaal Venom Gyre",
+    "name": "바알 독액 선회",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalSmite": {
     "id": "Metadata/Items/Gems/SkillGemVaalSmite",
-    "name": "Vaal Smite",
+    "name": "바알 징벌",
     "primary_attribute": "strength",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalChargedAttack": {
     "id": "Metadata/Items/Gems/SkillGemVaalChargedAttack",
-    "name": "Vaal Blade Flurry",
+    "name": "바알 질풍의 칼날",
     "primary_attribute": "dexterity",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalReap": {
     "id": "Metadata/Items/Gems/SkillGemVaalReap",
-    "name": "Vaal Reap",
+    "name": "바알 낫질",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalAnimateWeapon": {
     "id": "Metadata/Items/Gems/SkillGemVaalAnimateWeapon",
-    "name": "Vaal Animate Weapon",
+    "name": "바알 무기 기동",
     "primary_attribute": "dexterity",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalLightningArrow": {
     "id": "Metadata/Items/Gems/SkillGemVaalLightningArrow",
-    "name": "Vaal Lightning Arrow",
+    "name": "바알 번개 화살",
     "primary_attribute": "dexterity",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalAbsolution": {
     "id": "Metadata/Items/Gems/SkillGemVaalAbsolution",
-    "name": "Vaal Absolution",
+    "name": "바알 면죄",
     "primary_attribute": "strength",
     "required_level": 12,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalDomination": {
     "id": "Metadata/Items/Gems/SkillGemVaalDomination",
-    "name": "Vaal Domination",
+    "name": "바알 지배",
     "primary_attribute": "strength",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalIceShot": {
     "id": "Metadata/Items/Gems/SkillGemVaalIceShot",
-    "name": "Vaal Ice Shot",
+    "name": "바알 얼음 화살",
     "primary_attribute": "dexterity",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalFirestorm": {
     "id": "Metadata/Items/Gems/SkillGemVaalFirestorm",
-    "name": "Vaal Firestorm",
+    "name": "바알 화염 폭풍",
     "primary_attribute": "intelligence",
     "required_level": 28,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemVaalRejuvenationTotem": {
     "id": "Metadata/Items/Gems/SkillGemVaalRejuvenationTotem",
-    "name": "Vaal Rejuvenation Totem",
+    "name": "바알 회복 토템",
     "primary_attribute": "strength",
     "required_level": 4,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemManaforgedArrows": {
     "id": "Metadata/Items/Gems/SupportGemManaforgedArrows",
-    "name": "Manaforged Arrows Support",
+    "name": "마나벼림 화살 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemPrismaticBurst": {
     "id": "Metadata/Items/Gems/SupportGemPrismaticBurst",
-    "name": "Prismatic Burst Support",
+    "name": "분광 격발 보조",
     "primary_attribute": "intelligence",
     "required_level": 1,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemChannelledSnipe": {
     "id": "Metadata/Items/Gems/SkillGemChannelledSnipe",
-    "name": "Snipe",
+    "name": "저격",
     "primary_attribute": "dexterity",
     "required_level": 34,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemQuickstep": {
     "id": "Metadata/Items/Gems/SkillGemQuickstep",
-    "name": "Quickstep",
+    "name": "빠른 걸음",
     "primary_attribute": "none",
     "required_level": 1,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemTrauma": {
     "id": "Metadata/Items/Gems/SupportGemTrauma",
-    "name": "Trauma Support",
+    "name": "외상 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSpellblade": {
     "id": "Metadata/Items/Gems/SupportGemSpellblade",
-    "name": "Spellblade Support",
+    "name": "주문칼날 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemDevour": {
     "id": "Metadata/Items/Gems/SupportGemDevour",
-    "name": "Devour Support",
+    "name": "포식 보조",
     "primary_attribute": "intelligence",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFreshMeat": {
     "id": "Metadata/Items/Gems/SupportGemFreshMeat",
-    "name": "Fresh Meat Support",
+    "name": "신선한 고기 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFlamewood": {
     "id": "Metadata/Items/Gems/SupportGemFlamewood",
-    "name": "Flamewood Support",
+    "name": "화염나무 보조",
     "primary_attribute": "strength",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemCorruptingCry": {
     "id": "Metadata/Items/Gems/SupportGemCorruptingCry",
-    "name": "Corrupting Cry Support",
+    "name": "타락시키는 비명 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemGuardiansBlessing": {
     "id": "Metadata/Items/Gems/SupportGemGuardiansBlessing",
-    "name": "Guardian's Blessing Support",
+    "name": "수호자의 축복 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSacrifice": {
     "id": "Metadata/Items/Gems/SupportGemSacrifice",
-    "name": "Sacrifice Support",
+    "name": "희생 보조",
     "primary_attribute": "intelligence",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemFrigidBond": {
     "id": "Metadata/Items/Gems/SupportGemFrigidBond",
-    "name": "Frigid Bond Support",
+    "name": "차디찬 유대 보조",
     "primary_attribute": "intelligence",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemLocusMine": {
     "id": "Metadata/Items/Gems/SupportGemLocusMine",
-    "name": "Locus Mine Support",
+    "name": "궤적 지뢰 보조",
     "primary_attribute": "dexterity",
     "required_level": 8,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemSadism": {
     "id": "Metadata/Items/Gems/SupportGemSadism",
-    "name": "Sadism Support",
+    "name": "가학증 보조",
     "primary_attribute": "dexterity",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemControlledBlaze": {
     "id": "Metadata/Items/Gems/SupportGemControlledBlaze",
-    "name": "Controlled Blaze Support",
+    "name": "제어된 불길 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemVolatility": {
     "id": "Metadata/Items/Gems/SupportGemVolatility",
-    "name": "Volatility Support",
+    "name": "일촉즉발 보조",
     "primary_attribute": "strength",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SkillGemAutomation": {
     "id": "Metadata/Items/Gems/SkillGemAutomation",
-    "name": "Automation",
+    "name": "자동화",
     "primary_attribute": "intelligence",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SkillGemCallToArms": {
     "id": "Metadata/Items/Gems/SkillGemCallToArms",
-    "name": "Autoexertion",
+    "name": "자동 전력",
     "primary_attribute": "strength",
     "required_level": 24,
     "is_support": false
   },
   "Metadata/Items/Gems/SupportGemSacredWisps": {
     "id": "Metadata/Items/Gems/SupportGemSacredWisps",
-    "name": "Sacred Wisps Support",
+    "name": "신성한 도깨비불 보조",
     "primary_attribute": "intelligence",
     "required_level": 18,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemOverexertion": {
     "id": "Metadata/Items/Gems/SupportGemOverexertion",
-    "name": "Overexertion Support",
+    "name": "전심전력 보조",
     "primary_attribute": "strength",
     "required_level": 38,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemExpertRetaliation": {
     "id": "Metadata/Items/Gems/SupportGemExpertRetaliation",
-    "name": "Expert Retaliation Support",
+    "name": "노련한 보복 보조",
     "primary_attribute": "strength",
     "required_level": 31,
     "is_support": true
   },
   "Metadata/Items/Gems/SupportGemRupture": {
     "id": "Metadata/Items/Gems/SupportGemRupture",
-    "name": "Rupture Support",
+    "name": "파열 보조",
     "primary_attribute": "dexterity",
     "required_level": 38,
     "is_support": true
