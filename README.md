@@ -20,3 +20,14 @@
 I'm not currently taking PRs related to route changes, my intention is to keep the base route in line with current speed running strategies.
 
 Users are encourged to use the [Edit Route Tab](https://heartofphos.github.io/exile-leveling/#/edit-route) in the deployed app to update the route to their preferred playstyle.
+
+## Deployment
+
+This project is deployed using GitHub Pages.
+
+To deploy the application, run the following commands:
+
+```bash
+npm run build -w web
+npm run deploy -w web
+```
