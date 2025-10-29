@@ -1,0 +1,68 @@
+const e=`#section Act 8
+➞ {enter|2_8_1} #The Sarn Ramparts
+➞ {enter|2_8_town} #The Sarn Encampment
+➞ {enter|2_8_2_1} #The Toxic Conduits
+    #sub {dir|270} 방향으로 이동
+➞ {enter|2_8_2_2} #Doedre's Cesspool
+    #sub 바닥의 검은 페인트 자국이 진행해야 할 올바른 방향을 가리킴
+➞ {arena|가마솥}, {kill|끔찍한 도이드리} 처치하기
+➞ {arena|하수도 배출구}
+{crafting} 얻기
+➞ {enter|2_8_8} #The Quay
+    #sub {dir|45} 방향으로 이동
+{quest_text|영원의 앙크} 찾아서 획득
+    #sub {dir|270} 방향의 벽을 따라 이동
+➞ {arena|부활 장소}
+    #sub {dir|135} 방향으로 이동
+{generic|클라리사}에게 말을 검, {kill|톨먼} 처치하기
+➞ {enter|2_8_9} #The Grain Gate
+{kill|마석 군단병} 찾아서 처치하기
+    #sub 출입문 근처의 시체가 된 경비병들을 따라 진행함
+    #sub 책 모양 아이콘을 탐색
+➞ {enter|2_8_10} #The Imperial Fields
+    #sub 출입문 근처의 시체가 된 경비병들을 따라 진행함
+➞ {enter|2_8_12_1} #The Solaris Temple Level 1
+    #sub {waypoint}까지 길을 따라 계속 이동
+    #sub {dir|315} 방향으로 이동
+{waypoint_get} 얻기
+➞ {enter|2_8_12_2} #The Solaris Temple Level 2
+{kill|솔라리스의 선구자 여명} 찾아서 처치하기, {quest_text|태양의 보주} 획득
+{crafting} 얻기
+{logout}
+{quest|a8q1} 완료 보고 #Essence of the Hag
+{quest|a8q7} 완료 보고 #The Gemling Legion
+{quest|a8q6} 완료 보고 #Love is Dead
+{waypoint|2_8_12_1} #The Solaris Temple Level 1
+➞ {enter|2_8_11} #The Solaris Concourse
+➞ {enter|2_8_13} #The Harbour Bridge
+    #sub {dir|225} 방향으로 이동
+➞ {enter|2_8_6} #The Lunaris Concourse
+{waypoint_get} 얻기
+    #sub {dir|315} 방향으로 이동
+➞ {enter|2_8_7_1_} #The Lunaris Temple Level 1
+➞ {enter|2_8_7_2} #The Lunaris Temple Level 2
+{kill|루나리스의 선구자 황혼} 찾아서 처치하기, {quest_text|달의 보주} 획득
+{crafting} 얻기
+{logout}
+{waypoint|2_8_6} #The Lunaris Concourse
+➞ {enter|2_8_13} #The Harbour Bridge
+    #sub {dir|135} 방향으로 이동
+➞ {arena|하늘의 성소}, {generic|자매의 조각상} 작동
+{kill|영원한 달 루나리스} 처치하기 & {kill|영원한 태양 솔라리스}
+➞ {enter|2_9_1} #The Blood Aqueduct
+    #sub 파밍 레벨: 58-62
+➞ {enter|2_9_town} #Highgate
+{waypoint|2_8_6} #The Lunaris Concourse
+➞ {enter|2_8_5} #The Bath House
+    #sub {dir|180} 방향으로 이동
+#ifdef LEAGUE_START
+    {trial} 완료
+        #sub {dir|270} 방향 쪽을 탐색
+    {crafting} 얻기
+#endif
+➞ {enter|2_8_4} #The High Gardens
+    #sub {dir|270} 방향 쪽을 탐색
+➞ {arena|공포의 웅덩이}, {kill|공포의 반향 유굴} 처치하기
+{portal|use}
+{quest|a8q4} 완료 보고 #Reflection of Terror
+`;export{e as default};

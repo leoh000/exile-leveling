@@ -1,0 +1,80 @@
+const e=`#section Act 7
+{waypoint|2_7_town} #The Bridge Encampment
+➞ {enter|2_7_1} #The Broken Bridge
+#ifdef LEAGUE_START
+    더러운 자물통을 찾아 {quest_text|은갑 목걸이} 획득
+        #sub 도로를 따라가며 부서진 {waypoint}를 찾아봄
+#endif
+➞ {enter|2_7_2} #The Crossroads
+    #sub 길을 따라감
+{waypoint_get} 얻기
+➞ {enter|2_7_3} #The Fellshrine Ruins
+    #sub {dir|135} 방향으로 이동
+➞ {enter|2_7_4} #The Crypt
+    #sub 길을 따라감
+#ifdef LEAGUE_START
+    {trial} 완료
+    {crafting} 얻기
+#endif
+다음 층으로 이어지는 {generic|석관} 찾기
+{quest_text|말리가로의 지도} 찾아서 획득
+{logout}
+{waypoint|2_7_2} #The Crossroads
+➞ {enter|2_7_5_1} #The Chamber of Sins Level 1
+    #sub {dir|315} 방향으로 이동
+{crafting} 얻기
+{waypoint_get} 얻기
+{quest_text|말리가로의 지도}를 사용해 {quest_text|지도 장치}를 작동함
+➞ {enter|2_7_5_map} #Maligaro's Sanctum
+➞ {arena|말리가로의 작업장}, {kill|예술가 말리가로} 처치하기, {quest_text|검은 독액} 획득
+    #sub 지역의 가장자리를 따라 이동하며, 모서리에 있는 다리를 건넘
+    #sub 대체로 다리가 대각선 반대편 모서리에 생성됨
+{logout}
+{quest|a7q2} 완료 보고 #Essence of the Artist
+#ifdef LEAGUE_START
+    {quest|a7q5} 완료 보고 #The Silver Locket
+#endif
+{waypoint|2_7_5_1} #The Chamber of Sins Level 1
+{quest|a7q3} 완료 보고, {quest_text|흑요석 열쇠} 획득 #Web of Secrets
+➞ {enter|2_7_5_2} #The Chamber of Sins Level 2
+    #sub {waypoint}와 같은 방향으로 이동
+#ifdef LEAGUE_START
+    {trial} 완료
+    {crafting} 얻기
+#endif
+{generic|비밀 통로} 열기 ➞ {enter|2_7_6} #The Den
+➞ {enter|2_7_7} #The Ashen Fields
+➞ {arena|요새 야영지}, {kill|숲의 군주 그루스트} 처치하기
+    #sub {dir|225} 방향으로 이동
+➞ {enter|2_7_8} #The Northern Forest
+{waypoint|2_7_town} #The Bridge Encampment
+{quest|a7q1} 완료 보고 #The Master of a Million Faces
+{waypoint|2_6_8} #Prisoner's Gate
+➞ {arena|화염 흡수자의 계곡}, {kill|발굽 달린 아버라스} 처치하기
+    #sub 길 옆의 절벽을 따라 아래로 내려감
+{portal|use}
+{quest|a6q7} 완료 보고 #The Cloven One
+{waypoint|2_7_8} #The Northern Forest
+➞ {enter|2_7_10} #The Causeway
+{crafting} 얻기
+{quest_text|키샤라의 별} 찾아서 획득
+➞ {enter|2_7_11} #The Vaal City
+{waypoint_get} 찾기
+{waypoint|2_7_8} #The Northern Forest
+➞ {enter|2_7_9} #The Dread Thicket
+7x{quest_text|반딧불이} 찾아서 획득
+{crafting} 얻기
+➞ {arena|절망의 굴}, {kill|절망의 어머니 그루스컬} 처치하기
+{portal|use}
+{quest|a7q9} 완료 보고 #Queen of Despair
+{quest|a7q6} 완료 보고 #Kishara's Star
+{waypoint|Labyrinth_Airlock} #Aspirants' Plaza
+{ascend|cruel}
+{crafting|2_Labyrinth_boss_3} 얻기
+{waypoint|2_7_11} #The Vaal City
+{quest|a7q7} 완료 보고 #Lighting the Way
+➞ {enter|2_7_12_1} #The Temple of Decay Level 1
+➞ {enter|2_7_12_2} #The Temple of Decay Level 2
+{crafting} 얻기
+➞ {arena|아라칼리의 거미줄}, {kill|그늘 속의 방적꾼 아라칼리} 처치하기
+`;export{e as default};

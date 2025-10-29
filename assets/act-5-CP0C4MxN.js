@@ -1,0 +1,49 @@
+const e=`#section Act 5
+➞ {enter|1_5_1} #The Slave Pens
+{kill|간수 크로우} 찾아서 처치하기
+    #sub {dir|180} 방향으로 이동하며 매달린 카루이를 발견할 때까지 진행
+    #sub 시계 방향으로 돌아 {dir|270} 방향으로 이동
+➞ {enter|1_5_town} #Overseer's Tower
+{quest|a5q1b} 완료 보고 #Return to Oriath
+➞ {enter|1_5_2} #The Control Blocks
+{quest_text|타락 감지기} 찾아서 획득
+    #sub 가능한 한 {dir|270} 방향으로 이동
+{kill|카스티쿠스 법관} 찾아서 처치하기, {quest_text|열의의 눈} 획득
+    #sub {quest_text|타락 감지기} 기준으로 {dir|45} 방향으로 이동
+➞ {enter|1_5_3} #Oriath Square
+➞ {enter|1_5_4} #The Templar Courts
+    #sub {dir|45} 방향으로 이동
+➞ {enter|1_5_5} #The Chamber of Innocence
+    #sub 시계 방향으로 돌아 이동
+    #sub 파밍 레벨: 40-42
+{crafting} 얻기
+➞ {arena|순결의 지정소}, {kill|고위 템플러 아배리우스} 처치하기
+    #sub {dir|315} 방향으로 반시계 방향 나선 형태로 이동
+{logout}
+{quest|a5q2} 완료 보고 #The Key to Freedom
+{quest|a5q3} 완료 보고 #In Service to Science
+{quest|a5q4} 완료 보고 #Death to Purity
+{waypoint|1_5_5} #The Chamber of Innocence
+➞ {enter|1_5_4b} #The Torched Courts
+➞ {enter|1_5_3b} #The Ruined Square
+    #sub 반시계 방향으로 돌아 이동
+{waypoint_get} 얻기
+    #sub {dir|315} 방향으로 이동
+➞ {enter|1_5_6} #The Ossuary
+{quest_text|정화의 징표} 찾아서 획득
+{crafting} 얻기
+{logout}
+{waypoint|1_5_3b} #The Ruined Square
+➞ {enter|1_5_7} #The Reliquary
+    #sub {dir|225} 방향으로 이동하며 광장을 찾음
+    #sub {dir|180} 방향으로 이동
+3x{quest_text|키타바의 고난} 찾기, 지도의 모서리를 탐색
+{crafting} 얻기
+{logout}
+{quest|a5q7} 완료 보고 #Kitava's Torments
+{waypoint|1_5_3b} #The Ruined Square
+➞ {enter|1_5_8} #The Cathedral Rooftop
+    #sub {dir|225} 방향으로 이동
+➞ {arena|대성당 꼭대기}, {kill|만족을 모르는 키타바} 처치하기
+{generic|릴리 로스}에게 말을 검, 레이클라스트로 항해
+`;export{e as default};

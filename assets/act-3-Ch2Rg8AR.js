@@ -1,0 +1,101 @@
+const e=`#section Act 3
+➞ {enter|1_3_1} #The City of Sarn
+{crafting} 얻기
+{generic|클라리사}를 도와준 뒤 말을 검
+➞ {enter|1_3_town} #The Sarn Encampment
+➞ {enter|1_3_2} #The Slums
+    #sub {dir|0} 방향으로 이동
+➞ {enter|1_3_3_1} #The Crematorium
+    #sub 계단을 따라감
+#ifdef LEAGUE_START
+    {trial} 완료
+#endif
+{kill|파이어티} 찾아서 처치하기, {quest_text|톨먼의 팔찌} 획득
+{crafting} 얻기
+{logout}
+{generic|클라리사}에게 말을 걸고, {quest_text|하수도 열쇠} 획득
+{quest|a3q1} 완료 보고 #Lost in Love
+➞ {enter|1_3_2} #The Slums
+    #sub {dir|0} 방향으로 이동
+➞ {enter|1_3_10_1} #The Sewers
+찾기 1x{quest_text|흉상}
+{waypoint_get} 얻기
+찾기 2x{quest_text|흉상}
+➞ {enter|1_3_5} #The Marketplace
+{waypoint_get} 얻기
+#ifdef LEAGUE_START
+    ➞ {enter|1_3_6} #The Catacombs
+        #sub 근처를 탐색
+    {trial} 완료
+    {crafting} 얻기
+#endif
+{logout}
+{quest|a3q11} 완료 보고 #Victario's Secrets
+{waypoint|1_3_5} #The Marketplace
+➞ {enter|1_3_7} #The Battlefront
+    #sub {dir|0} 방향으로 탐색
+{waypoint_get} 얻기
+    #sub {dir|315} 방향으로 이동
+검은 근위대 상자를 찾아서 {quest_text|끈 감개} 획득
+    #sub {dir|225} 방향으로 이동
+➞ {enter|1_3_8_1} #The Solaris Temple Level 1
+    #sub {dir|45} 방향으로 이동
+➞ {enter|1_3_8_2} #The Solaris Temple Level 2
+➞ {arena|영원한 실험실}, {crafting} 얻기
+{waypoint|1_3_7} #The Battlefront
+➞ {enter|1_3_9} #The Docks
+    #sub {dir|315} 방향으로 이동
+{quest_text|마석 아황산염} 찾아서 획득
+{logout}
+{waypoint|1_3_8_2} #The Solaris Temple Level 2
+{generic|디알라 부인}에게 말을 검
+{quest|a3q4} 완료 보고 #The Ribbon Spool
+{quest|a3q5} 완료 보고, {quest_text|지옥불 활석} 획득 #Fiery Dust
+{waypoint|1_3_10_1} #The Sewers
+{quest_text|산 송장 장애물}을 불태우기
+{crafting} 얻기
+➞ {enter|1_3_13} #The Ebony Barracks
+{waypoint_get} 얻기
+{kill|그라비시우스 장군} 처치하기
+    #sub {dir|315} 방향으로 이동
+➞ {enter|1_3_14_1} #The Lunaris Temple Level 1
+➞ {enter|1_3_14_2} #The Lunaris Temple Level 2
+{kill|파이어티} 찾아서 처치하기, {quest_text|탑 열쇠} 획득
+    #sub 위쪽으로 향하는 계단을 따라 이동
+    #sub 수레가 있는 갈림길에서 두 대가 아닌 한 대가 있는 길로 이동함
+{crafting} 얻기
+{logout}
+{quest|a3q9} 완료 보고 #Piety's Pets
+{quest|a3q8} 완료 보고 #Sever the Right Hand
+{waypoint|1_3_13} #The Ebony Barracks
+➞ {enter|1_3_15} #The Imperial Gardens
+    #sub {dir|45} 방향으로 이동
+{waypoint_get} 얻기
+    #sub 길을 따라감
+#ifdef LEAGUE_START
+    {trial} 완료
+        #sub {dir|0} 방향으로 이동
+    {crafting} 얻기
+    {logout}
+    {waypoint|1_3_15} #The Imperial Gardens
+#endif
+#ifdef LIBRARY
+    ➞ {enter|1_3_17_1} #The Library
+        #sub {dir|315} 방향으로 이동
+    {waypoint_get} 얻기
+    {generic|헐거워진 촛대} 찾기 ➞ {enter|1_3_17_2} #The Archives
+    {crafting} 얻기
+        #sub 좁은 복도에서 촛불을 탐색
+    4x{quest_text|황금 책자} 찾기
+    {logout}
+    {waypoint|1_3_17_1} #The Library
+        #sub 스킬 젬 구매용 화폐를 인벤토리에 준비함
+    {quest|a3q12} 완료 보고 #A Fixture of Fate
+    {waypoint|1_3_15} #The Imperial Gardens
+#endif
+➞ {enter|1_3_18_1} #The Sceptre of God
+➞ {enter|1_3_18_2} #The Upper Sceptre of God
+    #sub 계단이 모서리 중 한 곳에 생성됨
+➞ {arena|탑 지붕}, {kill|고위 템플러 도미누스} 처치하기
+    #sub 바리케이드를 찾음
+`;export{e as default};

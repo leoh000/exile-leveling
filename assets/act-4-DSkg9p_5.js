@@ -1,0 +1,56 @@
+const e=`#section Act 4
+➞ {enter|1_4_1} #The Aqueduct
+➞ {enter|1_4_town} #Highgate
+➞ {enter|1_4_2} #The Dried Lake
+{kill|정화의 황제 볼} 찾아서 처치하기, {quest_text|데쉬렛의 깃발} 획득
+{crafting} 얻기
+{logout}
+{quest_text|데쉬렛의 봉인} 부수기
+{quest|a4q2} 완료 보고 #Breaking the Seal
+➞ {enter|1_4_3_1} #The Mines Level 1
+{crafting} 얻기
+➞ {enter|1_4_3_2} #The Mines Level 2
+{quest_text|데쉬렛}을 풀어줌
+➞ {enter|1_4_3_3} #The Crystal Veins
+{crafting} 얻기
+{waypoint|1_4_town} #Highgate
+{quest|a4q6} 완료 보고 #An Indomitable Spirit
+{waypoint|1_3_town} #The Sarn Encampment
+➞ {enter|Labyrinth_Airlock}, {waypoint_get} 얻기 #Aspirants' Plaza
+{ascend|normal}
+{crafting|1_Labyrinth_boss_3} 얻기
+{waypoint|1_4_3_3} #The Crystal Veins
+➞ {enter|1_4_5_1} #Daresso's Dream
+➞ {enter|1_4_5_2} #The Grand Arena
+{crafting} 얻기
+{waypoint|1_4_3_3} #The Crystal Veins
+➞ {enter|1_4_4_1} #Kaom's Dream
+➞ {enter|1_4_4_3} #Kaom's Stronghold
+    #sub {dir|45} 방향으로 이동
+    #sub 다리를 따라 이동
+{crafting} 얻기
+➞ {arena|왕의 칼데라}, {kill|카옴 왕} 처치하기, {quest_text|광분의 눈} 획득
+{portal|use}
+{waypoint|1_4_5_2} #The Grand Arena
+➞ {arena|칼날의 투기장}, {kill|검의 제왕 다레소} 처치하기, {quest_text|갈망의 눈} 획득
+    #sub {dir|225} 방향으로 이동 후, {dir|270} 방향을 기준으로 출구를 따라감
+{logout}
+{waypoint|1_4_3_3} #The Crystal Veins
+{generic|디알라 부인}에게 말을 검
+➞ {enter|1_4_6_1} #The Belly of the Beast Level 1
+➞ {enter|1_4_6_2} #The Belly of the Beast Level 2
+➞ {arena|짐승의 내장}, {kill|흉물 파이어티} 처치하기
+{generic|파이어티}에게 말을 검
+{crafting} 얻기
+➞ {enter|1_4_6_3} #The Harvest
+{kill|도이드리 다크텅} 찾아서 처치하기, {quest_text|말라카이의 허파} 획득
+{kill|이단심문관 말리가로} 찾아서 처치하기, {quest_text|말라카이의 심장} 획득
+{kill|움브라의 샤브론} 찾아서 처치하기, {quest_text|말라카이의 창자} 획득
+{quest|a4q5} 완료 보고 #Corpus Malachus
+➞ {arena|어둠의 중심부}, {kill|악몽 같은 자 말라카이} 처치하기
+{logout}
+{quest|a4q1} 완료 보고 #The Eternal Nightmare
+➞ {enter|1_4_7} #The Ascent
+{crafting} 얻기
+{quest_text|공명기}를 작동시키고, {quest_text|오리아스 차원문}을 사용
+`;export{e as default};

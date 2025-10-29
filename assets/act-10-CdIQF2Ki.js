@@ -1,0 +1,59 @@
+const n=`#section Act 10
+{waypoint|2_10_town} #Oriath Docks
+➞ {enter|2_10_1} #The Cathedral Rooftop
+➞ {arena|대성당 꼭대기}, {kill|역병날개} 처치하기
+    #sub {dir|0} 방향으로 이동
+➞ {enter|2_10_2} #The Ravaged Square
+{portal|set} 열기 in the plaza
+➞ {enter|2_10_7} #The Control Blocks
+    #sub {dir|180} 방향으로 이동
+{waypoint|2_10_town} #Oriath Docks
+{quest|a10q1} 완료 보고 #Safe Passage
+{portal|use}
+{waypoint_get} 얻기
+    #sub {dir|45} 방향으로 이동
+#ifdef LEAGUE_START
+    ➞ {enter|2_10_9} #The Ossuary
+    {crafting} 얻기
+    {trial} 완료
+#endif
+{logout}
+{waypoint|Labyrinth_Airlock}
+{ascend|merciless}
+{crafting|3_Labyrinth_boss_3} 얻기
+{waypoint|2_10_7} #The Control Blocks
+{kill|바일렌타} 찾아서 처치하기
+{logout}
+{quest|a10q6} 완료 보고 #Vilenta's Vengeance
+{waypoint|2_10_2} #The Ravaged Square
+➞ {enter|2_10_3} #The Torched Courts
+    #sub {dir|135} 방향으로 이동
+➞ {enter|2_10_4} #The Desecrated Chambers
+    #sub 시계 방향으로 돌아 이동
+{crafting} 얻기
+➞ {arena|순결의 지성소}, {kill|재조립된 아배리우스} 처치하기, {quest_text|정화의 지팡이} 획득
+    #sub {dir|315} 방향으로 반시계 방향 나선 형태로 이동
+{logout}
+{generic|배넌}에게 말을 검
+{quest|a10q2} 완료 보고 #Death and Rebirth
+{waypoint|2_10_2} #The Ravaged Square
+{generic|이노센스}에게 말을 검
+    #sub {dir|45} 방향으로 이동
+➞ {enter|2_10_5} #The Canals
+➞ {enter|2_10_6} #The Feeding Trough
+{crafting} 얻기
+{generic|씬}에게 말을 검
+➞ {arena|허기의 제단}, {kill|만족을 모르는 키타바} 처치하기
+{generic|씬}에게 말을 검 ➞ {enter|2_10_town} #Oriath Docks
+{generic|릴리 로스}에게 말을 검, Set Sail from Oriath
+➞ {enter|2_11_endgame_town} #Karui Shores
+{crafting} 얻기
+#ifdef BANDIT_KILL
+    {quest|a10q3} 완료 보고 #An End to Hunger
+        #sub 채팅창에 {generic|/passives}를 입력해 퀘스트로 획득한 24개의 패시브를 모두 보유했는지 확인
+#endif
+#ifndef BANDIT_KILL
+    {quest|a10q3} 완료 보고 #An End to Hunger
+        #sub 채팅창에 {generic|/passives}를 입력해 퀘스트로 획득한 22개의 패시브를 모두 보유했는지 확인
+#endif
+`;export{n as default};
